@@ -1,0 +1,185 @@
+# ------------------------- APPEARANCE  --------------------
+
+# set modifier
+set $super Mod4
+set $alt Mod1
+
+# set font
+font pango: Ubuntu Bold 10
+# Use Mouse+$super to drag floating windows to their wanted position
+floating_modifier $super
+
+smart_gaps on
+gaps inner 5
+gaps outer 5
+
+# ------------------------- WORKSPACE  --------------------
+
+set $ws1 "1: WEB "
+set $ws2 "2: SKP "
+set $ws3 "3: TXT "
+set $ws4 "4: TERM "
+set $ws5 "5: CHAT "
+set $ws6 "6: MUS "
+set $ws7 "7: GIMP "
+set $ws8 "8: INK "
+
+# ------------------------- AUTOSTART  --------------------
+
+exec --no-startup-id /home/oleg/.fehbg 
+exec --no-startup-id nm-applet 
+exec --no-startup-id dunst 
+exec --no-startup-id code
+exec --no-startup-id xfce4-power-manager
+exec --no-startup-id skypeforlinux && skypeforlinux
+exec --no-startup-id i3-msg workspace $ws1 && exec chromium-browser
+exec --no-startup-id lilyterm
+exec --no-startup-id snap run telegram-desktop
+exec --no-startup-id xfce4-terminal
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+
+
+# ------------------------- KEYBINDS  --------------------
+
+# start a terminal
+bindsym $super+Return exec i3-sensible-terminal
+
+# start dmenu (a program launcher)
+bindsym $super+d exec rofi -lines 12 -padding 18 -width 60 -location 0 -show drun -sidebar-mode -columns 3 -font 'Cantarell 12'
+bindsym $super+o exec /home/oleg/scripts/project-switch.sh
+
+# common apps keybinds
+bindsym Print exec flameshot gui
+bindsym $super+l exec i3lock -i ~/wall.png
+bindsym $super+Shift+w exec firefox
+bindsym $super+Shift+f exec thunar;workspace $ws6;focus
+
+#change volume
+bindsym XF86AudioRaiseVolume exec amixer -q set Master 5%+
+bindsym XF86AudioLowerVolume exec amixer -q set Master 5%-
+bindsym XF86AudioMute exec amixer set Master toggle
+
+
+# kill focused window
+bindsym $super+c kill
+bindsym $alt+F4 kill
+
+# change focus
+bindsym $super+Left focus left
+bindsym $super+Down focus down
+bindsym $super+Up focus up
+bindsym $super+Right focus right
+
+# move focused window
+bindsym $super+Shift+Left move left
+bindsym $super+Shift+Down move down
+bindsym $super+Shift+Up move up
+bindsym $super+Shift+Right move right
+
+# split in horizontal orientation
+bindsym $super+h split h
+
+# split in vertical orientation
+bindsym $super+v split v
+
+# enter fullscreen mode for the focused container
+bindsym $super+f fullscreen toggle
+
+# change container layout split
+bindsym $super+s layout toggle split
+
+# toggle tiling / floating
+bindsym $super+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym $super+Shift+space focus mode_toggle
+bindsym $super+p layout tabbed
+
+# switch to workspace
+bindsym $alt+Control+Right workspace next
+bindsym $alt+Control+Left workspace prev
+bindsym $super+1 workspace $ws1 
+bindsym $super+2 workspace $ws2 
+bindsym $super+3 workspace $ws3 
+bindsym $super+4 workspace $ws4 
+bindsym $super+5 workspace $ws5 
+bindsym $super+6 workspace $ws6 
+bindsym $super+7 workspace $ws7
+bindsym $super+8 workspace $ws8 
+
+# move focused container to workspace
+bindsym $super+Shift+1 move container to workspace $ws1 
+bindsym $super+Shift+2 move container to workspace $ws2 
+bindsym $super+Shift+3 move container to workspace $ws3 
+bindsym $super+Shift+4 move container to workspace $ws4 
+bindsym $super+Shift+5 move container to workspace $ws5 
+bindsym $super+Shift+6 move container to workspace $ws6
+bindsym $super+Shift+7 move container to workspace $ws7
+bindsym $super+Shift+8 move container to workspace $ws8 
+
+bindsym $super+j focus left
+bindsym $super+k focus right
+bindsym $super+Shift+r restart
+bindsym $super+q exec "i3-nagbar -t warning -m 'Really, exit?' -b 'Yes' 'i3-msg exit'"
+
+# ------------------------- RESIZE MODE  --------------------
+
+mode "resize" {
+        bindsym Left resize shrink width 5 px or 5 ppt
+        bindsym Down resize grow height 5 px or 5 ppt
+        bindsym Up resize shrink height 5 px or 5 ppt
+        bindsym Right resize grow width 5 px or 5 ppt
+        bindsym Return mode "default"
+}
+bindsym $super+r mode "resize"
+
+# ------------------------- SCRATCHPAD  ---------------------
+
+bindsym $super+i scratchpad show
+
+# ------------------------- COLORS  -------------------------
+set $fg-color #fdfff1
+set $bg-color #272821
+set $contrast-color #3b3c35
+set $red-color #f82570
+set $green-color #a6e12d
+set $yellow-color #e4db73
+set $orange-color #fc961f
+set $purple-color #ae81ff
+set $active-color #427dc4
+
+# class                     border  	       backgr. 	    text    	    indicator 	    child_border
+client.focused          	$contrast-color    $bg-color	$fg-color	$contrast-color	$contrast-color
+client.focused_inactive     $bg-color		   $bg-color	$yellow-color	$bg-color	    $bg-color
+client.unfocused          	$bg-color          $bg-color	$contrast-color	$bg-color	    $bg-color
+client.urgent         		$red-color		   $bg-color	$red-color	    $red-color      $red-color
+client.placeholder          $bg-color		   $bg-color	$yellow-color	$bg-color	    $bg-color
+client.background       	$fg-color
+
+
+
+# ------------------------- BAR  ------------------------------
+
+# ------------------------- RULES  --------------------------
+
+assign [class=Thunar|File-roller] $ws6
+assign [class=Geany|Evince|Gucharmap|Soffice|libreoffice*] $ws6
+assign [class=Audacity|Vlc|mpv|Ghb|Xfburn] $ws6
+assign [class=Gimp*] $ws7
+assign [class=Inkscape] $ws8
+assign [class=Lxappearance|System-config-printer.py|Lxtask|GParted|Pavucontrol|Exo-helper*|Lxrandr|Arandr] $ws6
+assign [class=Skype] $ws2
+assign [class=Emacs] $ws3
+assign [class=Code] $ws3
+assign [class=Xfce4-terminal] $ws4
+assign [class=Telegram] $ws5
+assign [class=Deadbeef] $ws6
+for_window [class=Viewnior|feh|Audacious|File-roller|Lxappearance|Lxtask|Pavucontrol] floating enable
+for_window [class=URxvt|Firefox|Geany|Evince|Soffice|libreoffice*|mpv|Ghb|Xfburn|Gimp*|Inkscape|Vlc|Lxappearance|Audacity] focus
+for_window [class=Xfburn|GParted|System-config-printer.py|Lxtask|Pavucontrol|Exo-helper*|Lxrandr|Arandr] focus
+for_window [class=".*"] border pixel 0
+for_window [class=Wine] floating enable
+for_window [class=Code] layout tabbed
+for_window [class=Lilyterm] move scratchpad
+for_window [title=SSL\sVPN-Plus\sClient] floating enable
+for_window [class=Warning|Auth] floating enable

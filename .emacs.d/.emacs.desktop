@@ -1,0 +1,1615 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Aug 16 09:48:01 2019
+;; Desktop file format version 208
+;; Emacs version 26.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23894 17297 658927 544000) (desktop . "208") "oleg@laptop" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-CYEL-Iosevka Term-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter . "Iosevka Term 14") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#2e3436") (background-color . "#eeeeec") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "#d8dee8") (scroll-bar-background . "#d8dee8") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . light) (cursor-color . "#204a87") (environment) (sticky) (modeline . t) (unsplittable) (frameset--id . "E082-EE1C-716B-AB71") (frameset--mini t . t) (display . ":0") (icon-name) (explicit-name) (frameset--text-pixel-width . 2544) (frameset--text-pixel-height . 1373) (height . 59) (width . 254) (left . 0) (top . 40)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 92) (min-pixel-width . 100) (min-pixel-height-ignore . 46) (min-pixel-width-ignore . 40) (min-pixel-height-safe . 23) (min-pixel-width-safe . 20)) leaf (pixel-width . 2560) (pixel-height . 1350) (total-width . 256) (total-height . 58) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 3905) (start . 3372))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("ido" "gith" "package-i" "kill-" "allow" "logout" "$mh.auth" "auth" "equal" "finished" "app" "chec" "torrent-fa" "renderLineC" "graphD" "renderLin"))
+(setq regexp-search-ring '("des" "gimp" "\"" "{" "bar" "rof" "font" "exec" "%" "bar" "pang" "i3b" "view" "pang" "bar" "move"))
+(setq register-alist nil)
+(setq file-name-history '("/home/oleg/.emacs" "/home/oleg/turem.md" "/home/oleg/.config/i3/config" "/home/oleg/phen.md" "/home/oleg/.gitconfig" "/home/oleg/docs/stories.md" "/home/oleg/docs/projects/tgIlitch/15-final2003.md" "/home/oleg/docs/projects/tgIlitch/14-fd2010.md" "/home/oleg/docs/projects/tgIlitch/13-finals.md" "~/docs/projects/tgIlitch/12-f1989.md" "/home/oleg/kivin.md" "/home/oleg/VTB/req.txt" "/home/oleg/piter.md" "/home/oleg/prog/metahash-mg-wallet/package.json" "/home/oleg/.festivalrc" "/home/oleg/packages.md" "/home/oleg/Downloads/index.m3u8" "/home/oleg/phpixel/index.html" "/home/oleg/phpixel/frame.html" "/home/oleg/phpixel/gif.php" "/home/oleg/useless_book/chapters/final2009.md" "/home/oleg/useless_book/chapters/final2009.tex" "/home/oleg/kvn-par.md" "/home/oleg/gk.md" "/home/oleg/scripts/project-switch.sh" "/home/oleg/.config/rofi/config.rasi" "/home/oleg/.Xresources" "/home/oleg/.config/i3/" "/home/oleg/scripts/open-project.sh" "/home/oleg/scripts/i3_switch_workspace.sh" "/home/oleg/machlearn/main.py" "/home/oleg/.config/i3blocks/volume-pulseaudio/volume-pulseaudio" "/home/oleg/.config/i3blocks/config.example" "/home/oleg/scripts/IconicWeather.sh" "/home/oleg/.config/i3blocks/config" "/home/oleg/.config/i3blocks/volume-pulseaudio/" "~/scripts/open-project.sh" "/home/oleg/scripts/open-project.hs" "/home/oleg/.config/i3status/" "/home/oleg/layouts/project.json" "/home/oleg/.config/i3status/config" "/home/oleg/.config/i3/i3status.conf" "/home/oleg/.config/i3/i3_status" "/home/oleg/.gtkrc-2.0" "/home/oleg/.config/gtk-3.0/settings.ini" "/home/oleg/.Xdefaults" "/home/oleg/.dwm/init.sh" "/home/oleg/.config/dunst/" "/home/oleg/dwm/config.h" "/home/oleg/dwm/" "/home/oleg/docs/projects/tgIlitch/11-chornobyl.md" "/home/oleg/pelmeniquestions.md" "/home/oleg/galkin.md" "~/useless_book/chapters/final2009.md" "/home/oleg/useless_book/chapters/chapter-ngu.tex" "/home/oleg/docs/projects/tgIlitch/11-kvn.md" "/home/oleg/docs/projects/tgIlitch/10-volga.md" "/home/oleg/VTB/links.sh" "/home/oleg/docs/projects/tgIlitch/09-one-thing.md" "/home/oleg/docs/projects/tgIlitch/08-got.md" "/home/oleg/docs/projects/tgIlitch/07-esc-itog.md" "/home/oleg/docs/projects/tgUselessKvn/04-kvnvision.md" "/home/oleg/docs/projects/tgUselessKvn/03-city.md" "/home/oleg/useless_book/chapters/chapter-1-1.tex" "/home/oleg/useless_book/chapters/" "/home/oleg/docs/projects/tgUselessKvn/02-rep.md" "/home/oleg/docs/projects/tgIlitch/06-club-02.md" "/home/oleg/docs/projects/tgIlitch/05-esc-finalists.md" "/home/oleg/docs/projects/tgUselessKvn/01-petr-otvetit.md" "/home/oleg/docs/projects/tgIlitch/03-vdv.md" "~/docs/projects/tgIlitch/04-esc-semi2.md" "/home/oleg/docs/projects/tgIlitch/02-esc-semi1.md" "/home/oleg/docs/projects/tgIlitch/01-init.md" "/home/oleg/Documents/snake.txt" "/home/oleg/Documents/kvnvision.md" "/home/oleg/blog/ivanov-oleg.github.io/.git/" "/home/oleg/blog/ivanov-oleg.github.io/_layouts/post.html" "/home/oleg/olivanov.ru/theme/mediumish-theme-jekyll/_config.yml" "/home/oleg/olivanov.ru/theme/mediumish-theme-jekyll/)" "/home/oleg/blog/ivanov-oleg.github.io/_config.yml" "/home/oleg/olivanov.ru/theme/mediumish-theme-jekyll/Gemfile" "/home/oleg/Adsniper/MetaHash/dApps/metahash-mg-forging/src/index.js" "/home/oleg/Documents/international.md" "/home/oleg/prog/ts/gulpfile.js" "/home/oleg/prog/ts/index.ts" "/home/oleg/prog/ts/tsconfig.json" "/home/oleg/prog/ts/index.html" "/home/oleg/Adsniper/MetaHash/metahash-mgapp/src/" "/home/oleg/zapor.txt" "/home/oleg/ytb_kvn/01_ŒÇŒâŒÞ_ŒâŒÐŒÚŒÞŒÕ_ŒºŒ²Œ½__Œ²ŒëŒáŒèŒÐŒï_ŒÛŒØŒÓŒÐ/screenplay.md" "/home/oleg/useless_book/main.md" "/home/oleg/useless_book/Makefile" "/home/oleg/useless_book/main.tex" "/home/oleg/useless_book/title.tex" "/home/oleg/useless_book/chapters/chapter-2-1.tex" "/home/oleg/useless_book/parts/part-2.tex" "/home/oleg/useless_book/parts/part-3.tex" "/home/oleg/races.txt" "/home/oleg/useless_book/index.tex"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/oleg/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode projectile-mode)
+  3905
+  '(2529 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23894 17282 802388 124000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1248 8945 7826 1159 2823 4500 7489 14 2283 5780 2188 2206 7487 7379 5752 3502))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/i3/config"
+  "config"
+  'conf-space-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  5614
+  '(2655 nil)
+  nil
+  nil
+  '((buffer-display-time 23894 17273 470985 257000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2589 3156 3100 3099 4569 4570 4544 4543 5486 70 3948 470 3840 3886 470 5614))))
+
+(desktop-create-buffer 208
+  "/home/oleg/turem.md"
+  "turem.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  727
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23893 24272 867585 845000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1940 1940 824 502 1 502 727))))
+
+(desktop-create-buffer 208
+  "/home/oleg/phen.md"
+  "phen.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  58
+  '(12 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23888 54428 715283 91000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (113 58))))
+
+(desktop-create-buffer 208
+  "/home/oleg/VTB/fe-bi-creation-menu/src/stories/create-documents.stories.jsx"
+  "create-documents.stories.jsx"
+  'js-jsx-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1162
+  '(1205 nil)
+  nil
+  nil
+  '((buffer-display-time 23888 35436 938526 833000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1162))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.gitconfig"
+  ".gitconfig"
+  'conf-unix-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  480
+  '(323 nil)
+  nil
+  nil
+  '((buffer-display-time 23884 25338 687098 546000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/league.txt"
+  "league.txt"
+  'text-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  2712
+  '(2712 nil)
+  nil
+  nil
+  '((buffer-display-time 23884 25198 917738 68000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2712 2712 2712 2712 2712 2712 2712 2712 696 1333 703 695 1 695 695 1136))))
+
+(desktop-create-buffer 208
+  "/home/oleg/scripts/open-project.sh"
+  "open-project.sh"
+  'sh-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  150
+  '(124 nil)
+  nil
+  nil
+  '((buffer-display-time 23884 24147 169492 142000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (140 92 145 140 76 54 54 197 202 197 14 97 97))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/chapters/chapter-1-1.tex"
+  "chapter-1-1.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  4598
+  '(18334 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23882 57925 112307 855000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (25856 37718 11220 11425 5699 384 350 32834 35843 36956 36956 36956 33231 32742 32804 1344))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/12-f1989.md"
+  "12-f1989.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  1056
+  '(1056 t)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23882 50069 5881 42000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 1055 1 100 1055 232 232 1 1027 674 647 864 634 518 518 886))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/ŒÄŒ´.txt"
+  "ŒÄŒ´.txt"
+  'text-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  643
+  '(90 nil)
+  nil
+  nil
+  '((buffer-display-time 23877 57790 104869 853000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (643))))
+
+(desktop-create-buffer 208
+  "/home/oleg/piter.md"
+  "piter.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  8704
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23876 18098 951048 633000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (6930 9310 11009 3570 2369 11010 2326 10025 8828 8083 8034 7387 5765 1511 1511 2063))))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/metahash-mg-wallet/package.json"
+  "package.json"
+  'js-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1866
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23874 46453 577802 175000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.festivalrc"
+  ".festivalrc"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  180
+  '(180 nil)
+  nil
+  nil
+  '((buffer-display-time 23872 15342 548619 224000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 180 180 180 180))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.Xresources"
+  ".Xresources"
+  'conf-xdefaults-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  2244
+  '(2387 nil)
+  nil
+  nil
+  '((buffer-display-time 23872 15342 613983 266000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (244 481 481 491 481 481 480 481 7 481 481 480 480 480 480 437))))
+
+(desktop-create-buffer 208
+  "/home/oleg/packages.md"
+  "packages.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  3883
+  '(5744 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23868 13017 509949 546000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1384 1 5717 5651 5620 5557 5526 5463 5431 5367 5333 5267 5234 5169 5133 5065))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/chapters/final2009.md"
+  "final2009.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  6200
+  '(10058 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23865 52136 113308 924000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (10058 9325 10059 9537 7969 7030 590 570 1412 1307 1412 558 98 590 1311 6137))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Downloads/index.m3u8"
+  "index.m3u8"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  389
+  '(389 nil)
+  nil
+  nil
+  '((buffer-display-time 23865 37145 350377 390000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/phpixel/index.html"
+  "index.html"
+  'web-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  219
+  '(140 nil)
+  nil
+  nil
+  '((buffer-display-time 23864 42652 946723 177000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (154 140))))
+
+(desktop-create-buffer 208
+  "/home/oleg/phpixel/frame.html"
+  "frame.html"
+  'web-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  128
+  '(128 nil)
+  nil
+  nil
+  '((buffer-display-time 23863 19087 827248 20000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/phpixel/gif.php"
+  "gif.php"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  4
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23863 18904 35728 459000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/chapters/final2009.tex"
+  "final2009.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23863 11529 220087 490000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/scripts/project-switch.sh"
+  "project-switch.sh"
+  'sh-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  387
+  '(143 nil)
+  nil
+  nil
+  '((buffer-display-time 23861 42382 444293 285000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (515 143 143 519 143 45 143 515 45 519 519 143 515 515 387))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/rofi/config.rasi"
+  "config.rasi"
+  'conf-javaprop-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1787
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23861 41993 64747 722000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "i3"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  180
+  '(nil nil)
+  t
+  '("/home/oleg/.config/i3/")
+  '((buffer-display-time 23860 50357 477747 504000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/scripts/i3_switch_workspace.sh"
+  "i3_switch_workspace.sh"
+  'sh-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  260
+  '(142 nil)
+  nil
+  nil
+  '((buffer-display-time 23860 48966 764910 730000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (313 313 360 347 248 313 439 399 439 399 474 474 173 46 46 260))))
+
+(desktop-create-buffer 208
+  "/home/oleg/machlearn/main.py"
+  "main.py"
+  'python-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  171
+  '(85 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23860 46924 918347 77000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (21 1 171))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.fehbg"
+  ".fehbg"
+  'sh-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  112
+  '(112 nil)
+  nil
+  nil
+  '((buffer-display-time 23859 26462 719995 947000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/i3blocks/volume-pulseaudio/volume-pulseaudio"
+  "volume-pulseaudio"
+  'sh-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  3196
+  '(4595 nil)
+  nil
+  nil
+  '((buffer-display-time 23855 46934 308107 241000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4856 4400 4809 4625))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/i3blocks/config"
+  "config"
+  'conf-unix-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  488
+  '(488 nil)
+  nil
+  nil
+  '((buffer-display-time 23855 45230 920267 525000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (488 480 488 488 488 339 339 334 464 339 339 311 311 311 488 488))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/i3blocks/config.example"
+  "config.example"
+  'conf-unix-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  2547
+  '(790 nil)
+  nil
+  nil
+  '((buffer-display-time 23855 44355 624536 120000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2547))))
+
+(desktop-create-buffer 208
+  "/home/oleg/scripts/IconicWeather.sh"
+  "IconicWeather.sh"
+  'sh-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  234
+  '(152 nil)
+  nil
+  nil
+  '((buffer-display-time 23855 43571 836240 614000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (24 152))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/i3blocks/volume-pulseaudio/i3blocks.conf"
+  "i3blocks.conf"
+  'conf-unix-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  138
+  '(35 nil)
+  nil
+  nil
+  '((buffer-display-time 23855 42492 681806 10000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "volume-pulseaudio"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  201
+  '(nil nil)
+  t
+  '("/home/oleg/.config/i3blocks/volume-pulseaudio/")
+  '((buffer-display-time 23855 42471 999398 324000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".config"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  179
+  '(nil nil)
+  t
+  '("/home/oleg/.config/")
+  '((buffer-display-time 23850 50365 919953 568000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "i3status"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  137
+  '(nil nil)
+  t
+  '("/home/oleg/.config/i3status/")
+  '((buffer-display-time 23850 50361 70223 703000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/i3status/config"
+  "config"
+  'conf-unix-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  402
+  '(311 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 50359 569239 648000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1809 1818 1809 1817 649 555 803 723 685 1818 1779 497 2 402 555 649))))
+
+(desktop-create-buffer 208
+  "/home/oleg/layouts/project.json"
+  "project.json"
+  'js-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  77
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23850 50008 292636 754000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/i3/i3status.conf"
+  "i3status.conf"
+  'conf-unix-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  2083
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 46302 353111 211000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/i3/i3_status"
+  "i3_status"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  290
+  '(1642 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 46259 213879 809000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (248))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.gtkrc-2.0"
+  ".gtkrc-2.0"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  576
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 43349 254124 453000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/gtk-3.0/settings.ini"
+  "settings.ini"
+  'conf-unix-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  226
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23850 43607 575631 15000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.Xdefaults"
+  ".Xdefaults"
+  'conf-xdefaults-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1616
+  '(2053 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 42852 188398 225000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1601 1601))))
+
+(desktop-create-buffer 208
+  "/home/oleg/st/config.h"
+  "config.h"
+  'c-mode
+  '(abbrev-mode yas-minor-mode global-auto-revert-mode)
+  384
+  '(5146 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 42789 821332 101000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2087 2726 2085 2085 2173 266 195 2173 2726 2836 2085 2087 2087 2087 5680 384))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.dwm/init.sh"
+  "init.sh"
+  'sh-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1
+  '(58 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 39598 165640 822000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/dunst/dunstrc"
+  "dunstrc"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  6611
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 39471 768831 22000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1 235 322 277 192 248 209 180 3002 5452 1826 531 1496 4820 1))))
+
+(desktop-create-buffer 208
+  nil
+  "dunst"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  183
+  '(nil nil)
+  t
+  '("/home/oleg/.config/dunst/")
+  '((buffer-display-time 23850 39214 682271 392000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/dwm/config.h"
+  "config.h"
+  'c-mode
+  '(abbrev-mode yas-minor-mode global-auto-revert-mode)
+  1127
+  '(478 nil)
+  nil
+  nil
+  '((buffer-display-time 23850 39208 907505 547000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (479 478 1 971 478 625 416 3930 2935 1127))))
+
+(desktop-create-buffer 208
+  "/home/oleg/dwm/config.mk"
+  "config.mk"
+  'makefile-gmake-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  128
+  '(128 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 23850 38038 570963 785000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "dwm"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  229
+  '(nil nil)
+  t
+  '("/home/oleg/dwm/")
+  '((buffer-display-time 23850 37936 810948 639000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/11-chornobyl.md"
+  "11-chornobyl.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  1568
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23850 37933 668332 961000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1516 356 1568))))
+
+(desktop-create-buffer 208
+  "/home/oleg/galkin.md"
+  "galkin.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  2152
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23849 10895 730830 999000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (143 141 2639 2639 2639 2639 2639 2075 2087 1531 1310 1004 614 125 1 2152))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/chapters/chapter-ngu.tex"
+  "chapter-ngu.tex"
+  'plain-tex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  10675
+  '(12092 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23846 43176 13190 142000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (11742 11789 11690 7570 7569 11758 11765 12092 11895 11871 11789 11732 11136 12092 11205 10675))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/xfce4/terminal/terminalrc"
+  "terminalrc"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  148
+  '(39 nil)
+  nil
+  nil
+  '((buffer-display-time 23843 21494 428539 7000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (39 39 148))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/10-volga.md"
+  "10-volga.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  1150
+  '(1041 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23843 21327 716384 561000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (152 69 1041 1041))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/09-one-thing.md"
+  "09-one-thing.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  2771
+  '(2771 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23843 20529 685324 43000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2771 2771 2771 1 2770 2174 1 1600 57 1 1600 1 1 343 1 1600))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/08-got.md"
+  "08-got.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  386
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23839 38268 25643 863000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (142 142 974 1086 1424 558 1733 1650 386))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/07-esc-itog.md"
+  "07-esc-itog.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  1
+  '(1825 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23838 16313 632998 862000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1783 1707 695 1226 535))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgUselessKvn/03-city.md"
+  "03-city.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  1784
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23836 14571 914822 280000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1402 194 86 86 1 928 605 533 455 86 194 263 295 457 457 1784))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgUselessKvn/01-petr-otvetit.md"
+  "01-petr-otvetit.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  1332
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23834 45512 718544 939000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (388 1 592 1 40 1 385 1 277 1183 386 239 100 133 1332 90))))
+
+(desktop-create-buffer 208
+  nil
+  "chapters"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  187
+  '(nil nil)
+  t
+  '("/home/oleg/useless_book/chapters/")
+  '((buffer-display-time 23834 29402 501503 417000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/05-esc-finalists.md"
+  "05-esc-finalists.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  2261
+  '(3766 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23834 19015 137781 547000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 3766 3082 3062 3046 920 2551 2567 2588 2556 1990 2013 2044 2013 1571 2261))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/04-esc-semi2.md"
+  "04-esc-semi2.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  4099
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23833 4897 350583 451000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (4099 1 457 815 2491 1 1311 1311 1328 1085 3580 3605 3604 3542 1899 4099))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/03-vdv.md"
+  "03-vdv.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  2884
+  '(2884 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23832 10153 503155 843000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2884 2882 1 1 184 237 302 450 2884 1846 2884 1892 1011 759 2236 2286))))
+
+(desktop-create-buffer 208
+  "/home/oleg/docs/projects/tgIlitch/01-init.md"
+  "01-init.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  917
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23830 51341 284163 157000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (916 212 906))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/snake.txt"
+  "snake.txt"
+  'text-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  467
+  '(309 nil)
+  nil
+  nil
+  '((buffer-display-time 23830 49390 751907 670000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (191 1 1 2 78 78 78 103 144 164 217 266 266 289 317 467))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/kvnvision.md"
+  "kvnvision.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  3945
+  '(5610 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23830 21242 539146 845000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (3683 3685 1 196 5601 3366 3341 3355 3354 3312 3247 3307 3171 3230 3189 3945))))
+
+(desktop-create-buffer 208
+  "/home/oleg/blog/ivanov-oleg.github.io/_config.yml"
+  "_config.yml"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  420
+  '(1272 nil)
+  nil
+  nil
+  '((buffer-display-time 23829 924 595510 900000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1272 1272 1272 1562 1272 1272 1272 1272 1272 1562 1272 3 1272 1272 1562 420))))
+
+(desktop-create-buffer 208
+  nil
+  "branches"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  157
+  '(nil nil)
+  t
+  '("/home/oleg/blog/ivanov-oleg.github.io/.git/branches/")
+  '((buffer-display-time 23829 654 489580 961000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".git"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  198
+  '(nil nil)
+  t
+  '("/home/oleg/blog/ivanov-oleg.github.io/.git/")
+  '((buffer-display-time 23829 651 970834 458000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/blog/ivanov-oleg.github.io/_layouts/post.html"
+  "post.html"
+  'web-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  255
+  '(21 nil)
+  nil
+  nil
+  '((buffer-display-time 23829 629 855739 781000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (21 21 21 21 21 21 21))))
+
+(desktop-create-buffer 208
+  "/home/oleg/olivanov.ru/theme/mediumish-theme-jekyll/_config.yml"
+  "_config.yml"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1431
+  '(1256 nil)
+  nil
+  nil
+  '((buffer-display-time 23829 899 442245 748000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (434 243 413 264 1256))))
+
+(desktop-create-buffer 208
+  "/home/oleg/olivanov.ru/theme/mediumish-theme-jekyll/Gemfile"
+  "Gemfile"
+  'ruby-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  551
+  '(392 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23829 289 17480 912000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/blog/ivanov-oleg.github.io/Gemfile"
+  "Gemfile"
+  'ruby-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  402
+  '(518 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23829 150 643294 499000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (518 518 518 31 31 31 31 1 1 1 31 31 1027 518 518 402))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Adsniper/MetaHash/dApps/metahash-mg-forging/src/containers/WalletStat.js"
+  "WalletStat.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode emmet-mode auto-complete-mode)
+  7992
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23828 65051 278403 952000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/home/oleg/RMAIL"
+  "*Group*"
+  'rmail-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 23828 65017 991458 872000) (buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Adsniper/MetaHash/dApps/metahash-mg-forging/src/index.js"
+  "index.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  2482
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23827 59041 595351 216000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/international.md"
+  "international.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  595
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23827 45901 944954 254000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 595 595))))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/ts/package.json"
+  "package.json"
+  'js-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  177
+  '(177 t)
+  nil
+  nil
+  '((buffer-display-time 23827 42726 97778 541000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (509))))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/ts/tsconfig.json"
+  "tsconfig.json"
+  'js-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  111
+  '(7 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43098 46488 351000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Adsniper/MetaHash/metahash-mgapp/src/containers/App.js"
+  "App.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  1851
+  '(1851 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43101 439652 592000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "containers"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  211
+  '(nil nil)
+  t
+  '("/home/oleg/Adsniper/MetaHash/metahash-mgapp/src/containers/")
+  '((buffer-display-time 23827 43101 913348 336000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  311
+  '(nil nil)
+  t
+  '("/home/oleg/Adsniper/MetaHash/metahash-mgapp/src/")
+  '((buffer-display-time 23827 43102 427402 406000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/zapor.txt"
+  "zapor.txt"
+  'text-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  60
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43102 742419 730000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/ytb_kvn/01_ŒÇŒâŒÞ_ŒâŒÐŒÚŒÞŒÕ_ŒºŒ²Œ½__Œ²ŒëŒáŒèŒÐŒï_ŒÛŒØŒÓŒÐ/screenplay.md"
+  "screenplay.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23827 43103 145418 959000))
+  '((mark-ring (1 1 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/main.tex"
+  "main.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  937
+  '(159 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43104 470901 716000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1080 1825))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/main.md"
+  "main.md"
+  'plain-tex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  11558
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43105 620272 802000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  437
+  '(423 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 23827 43106 167957 287000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (239 221 227 221 322 322 221 221 332 403 371 371 323 323 1 219))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/title.tex"
+  "title.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  476
+  '(186 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43106 539800 180000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (186 186 186 186 186 186 186 186 186 186 186 186 186 186 186 186))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/parts/part-2.tex"
+  "part-2.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  31
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43106 897223 132000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/chapters/chapter-2-1.tex"
+  "chapter-2-1.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  20
+  '(296 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43107 423840 419000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (296 296 296 296 252 221 187 252 252 252 252 252 21 20 20 296))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/parts/part-3.tex"
+  "part-3.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  31
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43107 829816 488000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (31))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/parts/part-4.tex"
+  "part-4.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  31
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43108 279832 86000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/parts/part-1.tex"
+  "part-1.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  41
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43108 605083 672000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (41 41 42))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/chapters/chapter-1-2.tex"
+  "chapter-1-2.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1438
+  '(7358 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43109 68619 428000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (7358 232 232 232 6903 232 6205 190 10 232 48 191 232 232 190 48))))
+
+(desktop-create-buffer 208
+  "/home/oleg/useless_book/preface.tex"
+  "preface.tex"
+  'latex-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  2
+  '(2 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23827 43109 402614 942000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "useless_book"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  175
+  '(nil nil)
+  t
+  '("/home/oleg/useless_book/")
+  '((buffer-display-time 23827 43109 924335 578000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/olivanov.ru/sass/style.scss"
+  "style.scss"
+  'scss-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  3189
+  '(636 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43112 891632 180000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2619 1687 252 578))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/olivanov.ru/index.html"
+  "index.html"
+  'web-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  2296
+  '(2296 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43114 611807 611000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2092 1 3250))))
+
+(desktop-create-buffer 208
+  nil
+  "sass"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  562
+  '(nil nil)
+  t
+  '("/home/oleg/Documents/olivanov.ru/sass/")
+  '((buffer-display-time 23827 43114 883173 814000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/olivanov.ru/js/main.js"
+  "main.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  837
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43115 194053 458000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/olivanov.ru/css/style.css"
+  "style.css"
+  'css-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  9785
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43115 437045 121000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1))))
+
+(desktop-create-buffer 208
+  nil
+  "js"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  639
+  '(nil nil)
+  t
+  '("/home/oleg/Documents/olivanov.ru/js/")
+  '((buffer-display-time 23827 43115 842763 514000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Adsniper/lada.js"
+  "lada.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  31814
+  '(31821 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43116 275235 225000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (18885 18810 20014 20014 20338 20320 24253 24235 25519 25501 25503 25521 17646 26507 28428 31814))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/obzor.txt"
+  "obzor.txt"
+  'text-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  3257
+  '(5151 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43116 403075 518000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (5145 5111 2731 1 3528 1 1 1 1 1 1 1 1 1 1 3185))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/pelagea.txt"
+  "pelagea.txt"
+  'text-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1922
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43116 565946 585000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1678 1678 638 638 67 104 117 237 544 1147 1571 1284 1678 1678 1678 1678))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/game-day.txt"
+  "game-day.txt"
+  'text-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1422
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43116 690026 284000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1015 1 50 75 423 520 687 763 643 845 1014))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/po-ballu.txt"
+  "po-ballu.txt"
+  'text-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1529
+  '(533 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43116 829235 609000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (534 272 495 371 209 272 179 298 1258))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/women.md"
+  "women.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  3001
+  '(2590 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23827 43117 69464 383000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2958 2590 1 1650 1649 2054 1 2309 2309 2307 1 939 1171 623 1841 383))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/newbie.md"
+  "newbie.md"
+  'markdown-mode
+  '(eldoc-mode yas-minor-mode global-auto-revert-mode)
+  1387
+  '(1657 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 23827 43117 348794 984000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 620 345 496 1 240 597 1244 1505 1585 817 956 1442 1600 1190))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Documents/newbie.csv"
+  "newbie.csv"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  1916
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43117 502504 368000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1916 1 58 1 1915 69 69 69 823 69 69 59 59 1 59 59))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Adsniper/MetaHash/dApps/metagate-mg-music/src/index.js"
+  "index.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode rainbow-delimiters-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43118 712366 481000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/dmp/index.html"
+  "index.html"
+  'web-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  247
+  '(176 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43119 96305 121000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (163))))
+
+(desktop-create-buffer 208
+  nil
+  "prog"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  248
+  '(248 nil)
+  t
+  '("/home/oleg/prog/")
+  '((buffer-display-time 23827 43119 339143 678000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/metahash-mg-wallet/src/components/app.js"
+  "app.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  345
+  '(81 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43119 628789 914000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (81 81 55 55 233 233 666 711 520 464 734))))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/metahash-mg-wallet/src/index.js"
+  "index.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  76
+  '(76 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43120 110718 374000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/Adsniper/MHApp/src/metahash-app/.gitignore"
+  ".gitignore"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  34
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43121 514763 690000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/metahash-mg-wallet/src/components/header/index.js"
+  "index.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  294
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43122 73865 842000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/metahash-mg-wallet/src/routes/profile/index.js"
+  "index.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  490
+  '(490 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43122 521401 37000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/metahash-mg-wallet/src/routes/home/index.js"
+  "index.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  87
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43122 925627 648000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  292
+  '(nil nil)
+  t
+  '("/home/oleg/prog/metahash-mg-wallet/src/")
+  '((buffer-display-time 23827 43123 354653 972000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/prog/metahash-mg-wallet/preact.config.js"
+  "preact.config.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  286
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43123 669983 909000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 1 1 285))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.emacs-new"
+  ".emacs-new"
+  'lisp-mode
+  '(yas-minor-mode global-auto-revert-mode slime-mode)
+  378
+  '(2029 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43126 632472 742000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1512 1796 1548 1362 1333 1311 333 876 2419 2304 282 282 189 820 283 2521))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Adsniper/MetaHash/dApps/metagate-mg-music/src/reducers/playerReducer.js"
+  "playerReducer.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode emmet-mode auto-complete-mode)
+  1262
+  '(2228 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43127 278619 408000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2484 2228))))
+
+(desktop-create-buffer 208
+  nil
+  "reducers"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  215
+  '(nil nil)
+  t
+  '("/home/oleg/Adsniper/MetaHash/dApps/metagate-mg-music/src/reducers/")
+  '((buffer-display-time 23827 43127 623702 951000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  828
+  '(nil nil)
+  t
+  '("/home/oleg/Adsniper/MetaHash/dApps/metagate-mg-music/src/")
+  '((buffer-display-time 23827 43128 138744 472000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "metagate-mg-music"
+  'dired-mode
+  '(yas-minor-mode global-auto-revert-mode)
+  675
+  '(nil nil)
+  t
+  '("/home/oleg/Adsniper/MetaHash/dApps/metagate-mg-music/")
+  '((buffer-display-time 23827 43128 418014 796000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.gimp-2.8/gimprc"
+  "gimprc"
+  'fundamental-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  1038
+  '(1019 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43128 634905 778000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/openbox/rc.xml"
+  "rc.xml"
+  'nxml-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  13122
+  '(13109 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43133 935494 765000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (10827 10827 13450 25831 25813 25722 25587 13291 13164 24586 1 25721))))
+
+(desktop-create-buffer 208
+  "/home/oleg/Adsniper/MetaHash/dApps/metahash-mg-forgingmhc/src/index.js"
+  "index.js"
+  'js2-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode emmet-mode auto-complete-mode)
+  2611
+  '(1627 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43134 993053 421000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1781))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/openbox/autostart.sh"
+  "autostart.sh"
+  'sh-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43136 35189 753000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/awesome/rc.lua"
+  "rc.lua"
+  'lua-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  20974
+  '(7227 nil)
+  nil
+  nil
+  '((buffer-display-time 23827 43137 473864 712000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (19952 10896 10896 1 1 1 1 1 1 1 1 2833 10896))))
+
+(desktop-create-buffer 208
+  "/home/oleg/.config/openbox/rcx.xml"
+  "rcx.xml"
+  'nxml-mode
+  '(yas-minor-mode global-auto-revert-mode projectile-mode)
+  13138
+  '(30467 nil)
+  nil
+  nil
+  '((buffer-display-time 23893 24380 509373 33000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (14744 1 14744))))
+

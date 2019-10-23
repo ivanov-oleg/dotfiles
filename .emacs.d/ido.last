@@ -1,0 +1,321 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/oleg/Adsniper/metahash/wallet/metahash/wallet/" . "js/")
+ ("/home/oleg/Adsniper/metahash/wallet/metahash/" . "wallet/")
+ ("/home/oleg/Adsniper/metahash/wallet/" . "metahash/")
+ ("/home/oleg/Adsniper/metahash/" . "wallet/")
+ ("/home/oleg/.config/mutt/" . "credentials/")
+ ("/home/oleg/Documents/" . "TheoBook/")
+ ("/home/oleg/Adsniper/ng/metahash/src/app/components/auth/" . "auth/")
+ ("/home/oleg/Adsniper/ng/metahash/src/app/components/" . "auth/")
+ ("/home/oleg/Adsniper/ng/metahash/src/app/" . "svg/")
+ ("/home/oleg/Adsniper/ng/metahash/src/" . "app/")
+ ("/home/oleg/Adsniper/ng/metahash/" . "src/")
+ ("/home/oleg/Adsniper/ng/" . "metahash/")
+ ("/home/oleg/Adsniper/metagate/build/" . "js/")
+ ("/home/oleg/Adsniper/metagate/" . "build/")
+ ("/home/oleg/Adsniper/mh_mob/" . "css/")
+ ("/home/oleg/prog/mhapp-ng/mhapp/src/" . "app/")
+ ("/home/oleg/prog/mhapp-ng/mhapp/" . "src/")
+ ("/home/oleg/prog/mhapp-ng/" . "mhapp/")
+ ("/home/oleg/Adsniper/LAST/" . "js/")
+ ("/etc/lightdm/" . "lightdm.conf.d/")
+ ("/etc/" . "lightdm/")
+ ("/" . "home/")
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/" . "model/")
+ ("/home/oleg/prog/" . "mhapp-ng/")
+ ("/etc/fonts/infinality/" . "conf.d/")
+ ("/etc/fonts/" . "infinality/")
+ ("/home/oleg/Adsniper/contracts/" . "css/")
+ ("/home/oleg/Adsniper/ssp-wp-build/" . "src/")
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/" . "js/")
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/" . "static/")
+ ("/home/oleg/Adsniper/MHApp/src/" . "metahash-app/")
+ ("/home/oleg/Adsniper/MHApp/" . "src/")
+ ("/home/oleg/.config/" . "mc/")
+ ("/home/oleg/Downloads/meta_current/" . "js/")
+ ("/home/oleg/Downloads/" . "meta_current/")
+ ("/home/oleg/.emacs.d/" . "layouts/")
+ ("/home/oleg/.local/share/lxqt/themes/" . "Roaux/")
+ ("/home/oleg/.local/share/lxqt/" . "themes/")
+ ("/home/oleg/.local/share/" . "lxqt/")
+ ("/home/oleg/.local/" . "share/")
+ ("/home/" . "oleg/")
+ ("/home/oleg/Adsniper/metahash_current_site+modal/" . "js/")
+ ("/home/oleg/Adsniper/" . "MHApp/")
+ ("/home/oleg/" . "Adsniper/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/"
+ "/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/model/"
+ "/home/oleg/"
+ "/home/oleg/Adsniper/MHApp/src/metahash-app/static/css/"
+ "/home/oleg/docs/"
+ "/home/oleg/.config/mc/"
+ "/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/components/"
+ "/home/oleg/Adsniper/MHApp/src/metahash-app/"
+ "/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/app/"
+ "/home/oleg/.config/"
+ "/home/oleg/.i3/"
+ "/home/oleg/Adsniper/metahash/wallet/metahash/wallet/js/"
+ "/home/oleg/Documents/"
+ "/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/views/"
+ "/home/oleg/bin/"
+ "/home/oleg/.config/mutt/"
+ "/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/i18n/"
+ "/home/oleg/.config/mutt/credentials/"
+ "/home/oleg/Documents/TheoBook/"
+ "/home/oleg/.config/openbox/"
+ "/home/oleg/Adsniper/ng/metahash/src/"
+ "/home/oleg/Adsniper/ng/metahash/src/app/svg/"
+ "/home/oleg/Adsniper/ng/metahash/src/app/"
+ "/home/oleg/Adsniper/ng/metahash/src/app/svg-icons/"
+ "/home/oleg/Adsniper/ng/metahash/"
+ "/home/oleg/Adsniper/ng/metahash/src/app/components/auth/auth/"
+ "/home/oleg/Adsniper/ng/metahash/src/app/components/auth/register/"
+ "/home/oleg/Adsniper/ng/metahash/src/app/components/auth/login/"
+ "/home/oleg/Adsniper/"
+ "/home/oleg/Downloads/"
+ "/home/oleg/Adsniper/mh_mob/"
+ "/home/oleg/Adsniper/mh_mob/css/"
+ "/home/oleg/Adsniper/metagate/build/js/"
+ "/home/oleg/Pictures/"
+ "/home/oleg/Adsniper/LAST/js/"
+ "/home/oleg/Adsniper/LAST/js/langs/"
+ "/home/oleg/Adsniper/LAST/"
+ "/home/oleg/prog/mhapp-ng/mhapp/src/app/"
+ "/home/oleg/prog/mhapp-ng/mhapp/"
+ "/home/oleg/Downloads/langs/"
+ "/etc/lightdm/"
+ "/home/oleg/prog/KR/"
+ "/home/oleg/prog/unim/"
+ "/etc/fonts/infinality/conf.d/"
+ "/home/oleg/Adsniper/contracts/"
+ "/home/oleg/Documents/books/"
+ "/home/oleg/Adsniper/contracts/css/"
+ "/home/oleg/.emacs.d/"
+ "/home/oleg/Adsniper/ssp-wp-build/"
+ "/home/oleg/Adsniper/ssp-wp-build/src/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "metagate.js"
+ "main.js"
+ "metaapps.js"
+ "dataLoader.js"
+ ".emacs"
+ "login.js"
+ "mgState.js"
+ "metagate.mine.css"
+ "remoteData.js"
+ "mylinux.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/model/" (23313 19934 877215 351000) "state.js" "lsProvider.js" "cache-storage.js" "remoteData.js" "mgState.js" "defaultData.js" "../" "./" "dataLoader.js" "qtData.js" "qtDataMHC.js" "routerPath.js" "makeRequest.js")
+
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/" (23313 19934 877215 351000) "views/" "terms.js" "metasettings.js" "app/" "model/" "metaapps.js" "libs-apps.js" "support.js" "forgot.js" "buy.js" "login.js" "components/" "main.js" "metanews.js" "app-apps.js" "app.js" "libs.js" "i18n/" "coming.js" "vendor/" "../" "./" "metasearch.js" "metadev.js" "updater.js" "helpers/" "metagate.js")
+
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/" (23313 19934 877215 351000) "terms.html" "buymhc.html" "login.html" "metasearch.html" "package.json" "version" "gulpfile.js" "help.html" "metadev.html" "support.html" "api_url.js" "vprefix.js" "../" ".git/" "./" "static/" "settings.html" "coming.html" "forgot.html" "metagate.html" "index.html" "apps.html" "node_modules/" "README.md")
+
+ ("/home/oleg/" (23313 43686 885693 668000) ".wget-hsts" "lc1.js" "size.js" "Documents/" "ISO/" "adsl-cred.txt" ".config/" ".face.icon" ".gtkrc-2.0-kde4" ".gimp-2.8/" "Desktop/" ".cache/" ".yarnrc" "Android/" "Загрузки/" ".gconf/" "log.txt" ".git-credential-cache/" ".Xauthority" ".qmmp/" ".emacs" "Музыка/" ".bash_logout" ".dbus/" "Templates/" ".xmodmap" ".xsession-errors" "Adsniper/" ".v8flags.6.2.414.50.045b9e4d8b96dce053950297a8a39665.json" ".gnupg/" ".sudo_as_admin_successful" "Pictures/" ".node_repl_history" "docs/" ".gphoto/" "adsn-vpn.conf" "Music/" ".pki/" ".bashrc" ".weechat/" "../" ".gitconfig" "hma/" "./" ".bash_history" "x.ppk" ".gradle/" ".steampath" "Downloads/" "queens.js" ".java/" ".emacs.d/" "VIRT/" ".nvidia-settings-rc" "ROMS/" ".steampid" ".mozilla/" ".AndroidStudio3.1/" ".metahash_wallets/" ".ssh/" ".pulse-cookie" ".kde/" ".steam/" "bin/" "GOG Games/" "src/" "logs/" "blog/" ".themes/" ".face" "Public/" ".recently-used" ".Xmodmap" "Изображения/" "AndroidStudioProjects/" "wee_slack.py" ".directory" "*scratch*" ".lesshst" ".vscode/" ".gnome/" "Steam/" "lc2.js" ".git.store" ".moc/" ".android/" ".npm/" "ssh.zip" ".thumbnails/" ".mednafen/" "Videos/" ".yarn/" ".gtkrc-2.0" ".local/" ".gitignore_global" ".nv/" "Документы/" ".profile")
+
+ ("/home/oleg/.emacs.d/" (23311 47657 857028 328000) "init.el" "libevent.el" "ido.last" "ac-comphist.dat" ".ergoemacs-status.el" "lisp/" ".emacs.desktop.lock" "games/" "../" "./" "session.1077ae7f4fc8e395c5152028118540934800000011830067" "snippets/" "eshell/" "url/" "libtgl.el" "emacs-backup/" "desktop/" ".search" "emacs-js/" "session.10110147136d7000152633314500000010510016" "elpa/" "recentf" "auto-save-list/" "telega.el1/" "telega.el" "request/" ".emacs.desktop" "layouts/" "README.md")
+
+ ("/home/oleg/Pictures/" (23311 59712 981048 891000) "photo_2018-05-15_00-05-07.jpg" "prava.JPG" "Logo.xcf" "figma/" "gimp-src/" "new-full-hd-wallpaper-27.jpg" "VK Cover.xcf" "out2.xcf" "out3.png" "Screenshot_20180518_163602.png" "Valdes-pack/" "VK Template.xcf" "big_1487251287_image.xcf" "Wallpapers/" "crafty.png" "Valdes.png" "Screenshot_20180531_152328.png" "out1.png" "photo_2018-03-30_11-10-14.jpg" "photo_2018-05-28_10-54-16.jpg" "../" "Labour2.xcf" "./" "photo_2018-03-30_11-10-14 (2).jpg" "www.1366x768.ru/" "Week.xcf" "urup/" "Trainer.xcf" "BING February 2017/" "Figma/" "Screenshot_20180529_142058.png" "mh.svg" "out2.png" "photo_2018-05-14_14-49-29.jpg" "Screenshot_20180527_181548.png" "Labour1.xcf" "Donor.png" "photo_2018-03-30_11-10-12.jpg" "Screenshot_20180517_172901.png" "WineAndSoul.gif" "Screenshot_20180517_171224.png" "pushups.xcf" "фото море свадьба/")
+
+ ("/home/oleg/Downloads/" (23312 21674 962891 43000) "Windows.10.Lite.Edition.v6.x64.2018.iso.part" "Windows7-USB-DVD-Download-Tool-Installer-en-US.exe" "MetaGate (1)" "Clementine-qt5.zip" "gog_flatout_2_2.1.0.6.sh" "IMG_20180515_200340.jpg" "debian-9.4.0-amd64-netinst.iso.torrent" "Telegram/" "Breezemite-aurorae.tar.xz" "rufus-2.18p.exe" "WindowsK10(0.6.1).tar.gz" "ssh/" "Liri_Text-x86_64-0.3.0.AppImage" "MetaGate (4)" "ms-sys-2.5.3/" "search.zip" "debian-9.4.0-amd64-netinst.iso" "TOCS_eng_updated_no_US_until_updated.docx" "MetaGate-linux-1.9.2.tar.gz" "vivaldi-stable_1.15.1147.42-1_amd64.deb" "#MetaWallet DEV (1).zip" "05089858C2C7C0E75A8005CF41E7B437215A6897.torrent" ".gitignore" "franz_5.0.0-beta.18_amd64.deb" "Numix.zip" "tsetup.1.2.17.tar.xz" "16B7C1435DF51CB696D04F8CF95F2ED422EA5781.torrent" "WalletMetahash" "xubuntu-18.04-desktop-amd64.iso.torrent" "_media_a_7_0_gimn_molodezhi_kubani.mp3" "builds2.tar (1).gz" "37AB8726D540168B04FE9C062D9E4E7A7587D88F.torrent" "MetaGate (5)" "code_1.23.1-1525968403_amd64.deb" "davidshimjs-qrcodejs-04f46c6.tar.gz" "Breezemite-aurorae.tar (1).xz" "supermixmaker-2.2-linux.zip" "slack-desktop-3.2.0-beta25a7a50e-amd64.deb" "tsetup.1.2.17.tar (1).xz" "FE6D577E15FE2B5214710156129A035D424E79C1.torrent" "audio_2018-05-12_01-19-20.ogg" "#MetaWallet DEV.zip" "q.log" "83033-pixelstyle.tar" "[Content_Types].xml" "Bolschoj_grafik.html" "unetbootin-linux-494" "../" "./" "media/" "Vectorman_md_us_manual.pdf" "slack-desktop-3.1.1-amd64.deb" "4107969_popova_t.docx" "android-studio-ide-173.4720617-linux.zip" "deadbeef-1.8.0-alpha4/" "Rambox-0.5.17-x64.tar.gz" "require.js" "wallet.zip" "ocs-url_3.0.3-0ubuntu1_amd64.deb" "WalletMetahash (1)" "nodes.txt" "museeks-amd64.deb" "vpngate_211.58.116.161_tcp_1587.ovpn" "reaper581pre7_linux_x86_64.tar.xz" "systemsettings.desktop" "reaplugs236_x64-install.exe" "MetaGate" "audio_2018-05-12_01-19-37.ogg" "token.zip" "Scenarij_raboty_summy_v_verhnem_levom_uglu__Mne_i_vsem__komu_interesno.txt" "xubuntu-16.04.4-desktop-amd64.iso.torrent" "Clementine-qt5/" "Metroid Prime (USA) (v1.00).7z" "reaper_sws_x86_64_44371a80.tar.xz" "builds2.tar.gz" "pro_rabotu_levogo_menju.pl" "ubuntu-budgie-18.04-desktop-amd64.iso" "qt-unified-linux-x64-3.0.4-online.run" "Vectorman-T-Rus_NewGame.zip" "#MetaWallet DEV (2).zip" "Telegram Desktop/" "MetaGate (2)" "MetaGate.zip" "rufus.ini" "MetaGate (3)" "missfont.log" "chromium-browser.desktop" "unetbootin-linux64-661.bin" "deadbeef-static_1.8.0-alpha4-1_x86_64.tar.bz2" "ms-sys-2.5.3.tar.gz" "14393.0.160715-1616.RS1_RELEASE_CLIENTENTERPRISE_S_EVAL_X64FRE_EN-GB.ISO" ".local/" "Sega - Master System - Mark III.rar" "font-awesome-4.7.0.zip")
+
+ ("/home/oleg/.config/" (23312 22681 635450 269000) "KCheckers/" "startupconfig" "QtProject.conf" "session/" "pavucontrol-qt/" "Rambox/" "tint2/" "pluma/" "kactivitymanagerd-statsrc" "nitrogen/" "VirtualBox/" "powermanagementprofilesrc" "xviewer/" "VK/" "gnome-session/" "kmailsearchindexingrc" "evolution/" "kxkbrc" "qpdfview/" "Mousepad/" "geany/" "jwm/" "startupconfigkeys" "kwin_rules_dialog.kmessagebox" "krunnerrc" "bluedevilglobalrc" "akonadi_indexing_agentrc" "xfce4/" "drkonqirc" "knotifyrc" "arkrc" "deluge/" "kcminputrc" "kwinrc" "pcmanfm-qt/" "REAPER/" "libfm/" "katerc" "kdenliverc" "xfe/" "compton.conf.bak" "termit/" "mpd/" "baloofilerc" "inkscape/" "kglobalshortcutsrc" "vivaldi/" "phishingurlrc" "mpv/" "ktorrent_infowidgetrc" "gnome-control-center/" "xarchiver/" "xmms2/" "manjaro/" "notificationhelper" "higan/" "upstart/" "pcmanfm/" "yandex-browser-beta/" "pulse/" "ksysguardrc" "indicators/" "xed/" "mintmenu/" "google-chrome/" "smtube/" "tomboy/" "deadbeef/" "sonata/" "katevirc" "qterminal.org/" "gtk-2.0/" "Franz/" "Slack/" "yarn/" "Code - Insiders/" "plasmashellrc" "kdeconnect/" "akonadi-firstrunrc" "cmus/" "katesyntaxhighlightingrc" "folder-color/" "katepartrc" "abiword/" "kactivitymanagerdrc" "yandex-disk/" "startupconfigfiles" "kcmshell5rc" "emaildefaults" "akregatorrc" "autostart-scripts/" "ktnefrc" "plasma-workspace/" "Trolltech.conf" "lxqt/" "gmic/" "lxsession-default-apps/" "Code/" "cef_user_data/" "darktable/" "specialmailcollectionsrc" "kdeglobals" "vlc/" "mc/" "chromium-flags.conf" "lilyterm/" "dolphinrc" "Clementine/" "ibus/" "user-dirs.dirs" "katemetainfos" "obmenu-generator/" "kwalletmanager5rc" "awesome/" "cantata/" "guvcview2/" "feh/" "webengineurlinterceptoradblockrc" "Bitcoin/" "knfsshare" "discord/" "dolphin-emu/" "yad.conf" "khotkeysrc" "kcmdrivermanagerrc" "PCSX2/" "lxsession/" "gnome-mpv/" "easytag/" "akonadi_akonotes_resource_0rc" "spectaclerc" "kconf_updaterc" "plasma-localerc" "onlyoffice/" "kateschemarc" "Qlipper/" "okularrc" "plasma-locale-settings.sh" "volti/" "hiro/" "ristretto/" "konsolerc" "smplayer/" "kfontinstuirc" "muonrc" "volumeicon/" "brasero/" "luakit/" "gedit/" "user-dirs.locale" "touchpadrc" "plasmarc" "emailidentities" "oomox/" "lxterminal/" "mednaffe.conf" "gnome-mplayer/" "goa-1.0/" "transmission/" "ktimezonedrc" "Brackets/" "autostart/" "akonadi/" "pychess/" "conky.conf" "deepin/" "kmail2rc" "qt5ct/" "ranger/" "galculator/" "xplayer/" "chromium/" "akonadi_maildir_resource_0rc" "kmixrc" "gxkb/" "vcmi/" "synapse/" "kinfocenterrc" "skypeforlinux/" "audacious/" "kdebugrc" "i3blocks/" "opera/" "parcellite/" "spacefm/" "ktorrentrc" "hexchat/" "mimeapps.list" "ekstertera/" "ksmserverrc" "4kdownload.com/" "pix/" "midori/" "mutt/" "korgacrc" "yandex-browser/" "scummvm/" "Thunar/" "gtkrc-2.0" "compiz-1/" "update-notifier/" "supertuxkart/" "plasma-nm" "gwenviewrc" "compton.conf" "orage/" "dconf/" "discoverrc" "kactivitymanagerd-switcher" "lxpanel/" "gtkrc" "menus/" "kcmdisplayrc" "yelp/" "konversationrc" "ksplashrc" "kdialogrc" "systemsettingsrc" "kded_device_automounterrc" "glade.conf" "nautilus/" "tilda/" "GREYC/" "leafpad/" "plank/" "transmissionrc" "kwinrulesrc" "trashrc" "qupzilla/" "qtcurve/" "tint3/" "okularpartrc" "i3/" "komparerc" "libaccounts-glib/" "plasma-org.kde.plasma.desktop-appletsrc" "nemo/" "openbox/" "nano/" "poezio/" "vala-panel/" "catfish/" "enchant/" "kscreenlockerrc" "configstore/" "libreoffice/" "far2l/" "teamviewer/" "gpicview/" "kwin_dialogsrc" "filezilla/" "kcmfonts" "scudcloud/" "jd-gui.cfg" "fontconfig/" "kgammarc" "gtk-3.0/" "zathura/" "caja/" "kde.org/" "kwin_rules_dialogrc" "Museeks/" "wesnoth/" "klaunchrc" "cinnamon-session/" "sublime-text-3/" "gtk-4.0/" "pavucontrol.ini" "devilspie2/" "kwalletrc" "../" "./")
+
+ ("/home/oleg/.config/mc/" (23312 22291 64988 505000) "mc.ext" "../" "./" "ini" "panels.ini" "mcedit/")
+
+ ("/home/oleg/docs/" (23312 28867 675646 815000) "kem.md" "mylinux.md" "о_неудачах.md" ".#о_неудачах.md" "packlist.md" "blood.md" "unim.md" "../" "./" ".#розыгрыш.md" "the-candidate.md" "розыгрыш.md" ".#blood.md" "rih.md" ".#rih.md")
+
+ ("/home/oleg/bin/" (23305 30456 373406 677000) "Miranda/" "Telegram" "lsmaildir" "telegram" "android-studio/" "reaper_linux_x86_64/" "utf7.pyc" "utf7.py" "title.sh" "../" "./" "geany.sh" "init.sh" "Updater" "Aurora Draughts 4.0.10 Lite/")
+
+ ("/home/" (23299 60902 776928 370000) "../" "./" ".directory" "lost+found/" "oleg/")
+
+ ("/home/oleg/Documents/" (23311 45450 552644 316000) "REAPER Media/" "latex3days.pdf" "Миро-план.odt" "ssh/" "7_errors.html" "Valdes2.png" "Проект КПД-план.txt" "Рубина Д. - Русская канарейка (Трилогия) - 2014-2015/" "md/" "01-while-you-wasnt-here.md" "размеры.txt" "text.md" ".markdown-preview.html" "docs/" "960-Grid-System-master/" "flymd.html" "books/" "../" "./" "TheoBook/" "7-логических-ошибок-кого.md" "plan.md" "helpix.html" "flymd.md" "org/" "7ls.docx" "deadbeef-static_0.7.2-2_amd64.deb" "7ls.pdf" "maybe.md" "piglet.md" "debian-handbook.epub" ".#maybe.md")
+
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/app/" (23311 59815 405288 759000) "state.js" "version.js" "../" "./")
+
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/components/" (23311 59815 417288 786000) "transferMonitor.js" "walletListEmpty.js" "walletTransfer.js" "smallChart.js" "qrCode.js" "balance.js" "settingsImport.js" "transactionList.js" "walletDataSaved.js" "../" "./" "walletMenu.js" "settingsMenu.js" "copyModal.js" "walletList.js" "tooltipInit.js" "currenciesMenu.js" "walletCreate.js" "lineChart.js" "locationBar.js")
+
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/css/" (23311 59815 265288 448000) "coming.css" ".DS_Store" "font-awesome.css" "style.css" "metanews.css" "desktopwall.css" "desktop.css" "metagate.mine.css" "buytokens.css" "app.css" "bitcomo.css" "media.css" "vendor/" "../" "bootstrap-select.css" "dashboard.css" "./" "bootstrap.min.css" "admin.css" "libs2.css" "libs-apps.css" "metagate.css" "bitlogin.css" "wallet.css" "app-apps.css" "libs.css" "linechart.css" "login.css" "app2.css")
+
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/" (23311 59815 673289 353000) "js/" "css/" "images/" "../" "./" "fonts/")
+
+ ("/home/oleg/Adsniper/" (23304 17547 544732 828000) "MHApp/" "ssp-wp-build/" "metagate/" "projects/" "static-src-userred/" "ssp/" "docs/" "../" "VPN" "./" "mhlists.md" "static-src-restream/" "yaomli/" "makeup/" "static-src-adxxx/" "static-src-terratraf/")
+
+ ("/home/oleg/Adsniper/metagate/build/js/" (23302 59086 69371 904000) "libs.min.js" "app.js.map" "app.js" "libs.js" "../" "./" "libs.js.map" "app.min.js")
+
+ ("/home/oleg/Adsniper/MHApp/src/" (23300 3899 804655 658000) "../" "./" "metahash-app/")
+
+ ("/home/oleg/Adsniper/MHApp/" (23300 3815 481437 79000) "app/" "../" "./" "src/")
+
+ ("/home/oleg/.config/chromium/" (23300 14280 990651 207000) "Network Action Predictor" "Profile 1/" "Dictionaries/" "Current Session" "Default/" "Cookies" "previews_opt_out.db-journal" "Webstore Downloads/" "IndexedDB/" "FileTypePolicies/" "Safe Browsing Channel IDs-journal" "Crash Reports/" ".org.chromium.Chromium.GWJOz4" "Service Worker/" "Top Sites-journal" "Session Storage/" ".org.chromium.Chromium.iXm725" "Subresource Filter/" "Local Storage/" "CertificateRevocation/" "TransportSecurity" "MEIPreload/" ".org.chromium.Chromium.AwVxmT" "Secure Preferences" "Extension State/" "OriginTrials/" "ShaderCache/" "Login Data-journal" "EVWhitelist/" "Visited Links" "Safe Browsing/" "Top Sites" "SSLErrorAssistant/" "Last Session" "BrowserMetrics-spare.pma" "../" "Safe Browsing Cookies" "./" "Local State" "pnacl/" "CertificateTransparency/" "Shortcuts" ".org.chromium.Chromium.xzsmv9" "System Profile/" ".org.chromium.Chromium.QIJMsz" "Origin Bound Certs" "Channels" "QuotaManager" "Extension Rules/" "History" "Network Action Predictor-journal" "SingletonLock" "previews_opt_out.db" "Avatars/" "GPUCache/" "First Run" ".org.chromium.Chromium.56abw6" "README" "Login Data" "Current Tabs" "Dev/" ".org.chromium.Chromium.ISu2T3" "SingletonSocket" ".org.chromium.Chromium.ZPNCN3" "Origin Bound Certs-journal" "QuotaManager-journal" ".org.chromium.Chromium.LBCP6y" "SingletonCookie" "data_reduction_proxy_leveldb/" "History-journal" "Cookies-journal" "databases/" "WidevineCdm/" ".org.chromium.Chromium.fytWko" "Safe Browsing Channel IDs" "Favicons" "Safe Browsing Cookies-journal" "Favicons-journal" "Preferences" "Shortcuts-journal")
+
+ ("/home/oleg/Adsniper/ssp-wp-build/src/" (23300 6017 369105 551000) "modules/" "expand.js" "userred.js" "test.js" "adxxx.js" "../" "./" ".tern-port" "sniper.js" "TAGS" "conf/" "terratraf.js" "userblack.js")
+
+ ("/home/oleg/Adsniper/ssp-wp-build/" (23300 6460 818381 873000) "adsl-cred.txt" ".babelrc" "poland.html" "GTAGS" "package.json" "getcover_sphere.sh" "gulpfile.js" "popopentest/" "expand.html" "page/" "static-src-userred/" "adsbysniper.js" "docs/" "webpack.config.js" "adsn1.html" "GSYMS" "safeframe/" "fullpage.html" "../" "GRTAGS" "./" "static-src-sniper/" "static-src-test/" "test/" "TAGS" "src/" "package-lock.json" ".jshintrc" "frame.html" "tags" ".vscode/" "node_modules/" "GPATH" "static-src-adxxx/" "static-src-terratraf/" "static-src-userblack/")
+
+ ("/home/oleg/Documents/books/" (23300 7152 858706 115000) "kvant_13.djvu" "Макаров В.Л. Физиология закаливания.djvu" "domovodstvo-1959.djvu" "Сандов - Сила и как ее приобрести.pdf" "Стратегия семейной жизни/" "kniga-nachinaushego-shahmatista.djvu" "sandov_e_yurev_a_b_sila_i_kak_sdelatsya_silnym_polnoe_rukovo.djvu" "Бронсон Чарльз Фитнес в изоляторе.fb2" "Strength and How To Obtain It.djvu" "Чарльз Бронсон. Фитнес в одиночной камере. 2007.docx" "fizika_na_vsyu_zhizn_2003.djvu" "convict_conditioning.djvu" "Telegram Intim.pdf" "Фергюсон Р. - Зона тренировок. Стань сильнее, быстрее и умнее - 2016.fb2" "Gardner/" "Макаров В.А. - Физиология закаливания - 1984.djvu" "../" "kvant_44.djvu" "./" "Силлов Дмитрий Реальный уличный бой. Система выживания на улице, в армии, в тюрьме, в обществе (2005).fb2" "Траут, Ривкин - Сила простоты (Деловой бестселлер) - 2007.djvu" "Yazik programmirovaniya Si. Izdanie 3-e, ispravlennoe.pdf" "Sukhomlinskiy_Izbrannye_proizvedenia_Tom_1.pdf" "Сила простоты/" "Лаптев А.П. - Азбука закаливания (ФиЗ) - 1986.djvu" "Священная Библейская история Ветхого Завета - епископ Вениамин (Пушкарь).fb2" "Краткая система Мюллера.doc" "Панов В.Н., Эстрин Я.Б. Курс дебютов (6-е издание, 1980).djvu" "cvg-mediasniper_PullBar.pdf" "Серия книг ТЕОРИЯ ДЕБЮТОВ, ФиС [1979-1990, DjVu, RUS]/")
+
+ ("/home/oleg/.config/openbox/" (23299 64267 156784 667000) "lubuntu-rc.xml" "../" "./" "autostart" "rc.xml" "lxqt-rc.xml")
+
+ ("/home/oleg/Documents/TheoBook/" (23300 7226 374508 84000) "main.dvi" "00-title.tex" "images/" "main.log" "../" "./" "main.out" "main.aux" "main.tex" "main.pdf" "main.toc")
+
+ ("/home/oleg/.config/mutt/credentials/" (23300 467 114210 173000) "imappwd.py" "imappwd.pyc" "getmuttpass" "../" "./")
+
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/i18n/" (23300 3943 276306 779000) "i18n.fr.js" "lang-en.js" "lang-fr.js" "i18n.es.js" "i18n.ro.js" "../" "./" "lang-es.js" "i18n.en.js" "i18n.ru.js" "i18n.vi.js" "lang.js" "translation.js" "lang-th.js" "langloader.js" "lang-vi.js" "lang-ro.js" "i18n.th.js" "lang-ru.js")
+
+ ("/home/oleg/.config/mutt/" (23300 469 170242 856000) ".gitignore" "accounts/" "credentials/" "colors/" "personal.muttrc" "../" ".git/" "./" "LICENSE.md" "autoconf/" "etc/" "muttrc" "README.md" "mutt-wizard.sh")
+
+ ("/home/oleg/Adsniper/MHApp/src/metahash-app/static/js/views/" (23300 3943 292306 655000) "currenciesList.js" "walletTransfer.js" "backupSettings.js" "walletSelect.js" "transactionList.js" "graphSettings.js" "../" "./" "langMenu.js" "walletList.js" "walletIsCreated.js" "loginMenu.js" "header.js" "walletCreate.js" "pendingTransfers.js" "courseDelta.js")
+
+ ("/home/oleg/.i3/" (23289 21128 914697 338000) "../" "./" "config")
+
+ ("/home/oleg/Adsniper/metahash/wallet/metahash/wallet/js/" (23295 56122 978797 910000) ".#main.js" "main.js" "../" "jquery.min.js" "slick.min.js" "bootstrap.min.js" "./" "qrcode.js" "hammer.min.js" "main-chart.js" "muuri.min.js" "web-animations.min.js" "mainChart_d3.v5.min.js" "bootstrap-select.js")
+
+ ("/home/oleg/Adsniper/metahash/wallet/metahash/wallet/" (23294 56060 83928 311000) "currency-list.html" "settings-backup.html" "create-wallet.html" "apps.html" "images/" "js/" "demo/" "../" "create-window.html" "wallets-list.html" "index.html" ".DS_Store" "css/" "search.html" "nosearch.html" "./" "popups.html" "fonts/" "addapp.html" "settings.html" "transaction-history.html" "scrins/" "open-wallet.html" "wallet-data-saved.html" "data-saved.html")
+
+ ("/home/oleg/Adsniper/metahash/wallet/metahash/" (23294 56060 15927 190000) "bitcomo/" "metagate-makeup/" "reg/" "plaz/" "metahash_multilang/" "metahash_mob/" "../" "map/" "wallet_app/" "autoreply_techconference_new.php" "LAST/" "download/" "adm/" ".DS_Store" "./" "admin/" "land_version1_october/" "plaz.zip" "metahash.net/" "metagate/" "meta-download-wallet/" "normmulti/" "meta_current/" "wallet/" "oldgate/" "mail/" "graph/" "dwn/" "TechCon/" "land_Karen_december/")
+
+ ("/home/oleg/Adsniper/metahash/wallet/" (23294 56060 3926 992000) "nis/" "mobfox480x320/" "mediasniper_ru/" "language.php" "adsniper_ru/" "rt_banner_frame/" "php.php" "test.php" "spots/" "krutoevideo.zip" "tests/" "README.md" ".git/" "sharlota/" "partysniper/" "adcloud.zip" "adsniper-com/" "river/" "player/" "tai/" "topwhitenews.com/" "mh/" "river.zip" "tnews2.png" "group-controls.zip" "nis.zip" "tophot2/" "bitcointalk/" "mail.zip" "oop.html" "block.html" "news21/" "article_files/" "autoreply_invest_en.php" "admin.php" "rumin240x400.html" "portal/" "coolvideo/" "romania_news/" "www.laysmillion.ru/" "topbanner.js" "cl/" "tnews.html" "../" "test-lang.php" "myarticle/" "rt_banner.zip" "tophotV12.zip" "bootstrap-progressbar-3.3.4.min.css" "banners/" "gentelella-master.zip" "adnews/" "en/" "uznay-block/" "kenny-201/" "240x400.html" "mynissan/" "programmatic.kz.zip" "spots.zip" "iframe2/" "tiz-ban.html" "programmatic.kz/" "video.pdf" "aray/" "news2/" "autorization2/" "blue3.html" "parsejson.php" "tagheaderslider/" "rt.zip" "newsfeed/" "test-mail.html" "brandsafety_land/" "240x400v2.html" "omd/" ".DS_Store" "zip/" "lastOMD.html" "vlogin/" "newsramblerru/" "newadcloud/" "autorization/" "adallnews/" "mediasniper/" "ni.png" "240x400v2-3.html" "./" "blue4.html" "tophotV12/" "adcloud/" "adsniper_site_betta_ru.zip" "md/" "metahash/" "careers-mobile/" "slider/" "moveto.html" "mysql_test/" "blue.html" "480x320v2.html" "rt_banner_frame.zip" "rt/" "blueprint_block.html" "taiban/" "mobfox320x480/" "ssp_blocks/" "careers/" "globalnews/" "news/" "ms-stub/" "targetbanner/" "adminpanel/" "tophot/" "diavita_banners/" "tort/" "uznay240x400.html" "autorization3/" "parse_json/" "newsfeed_tophot/" "cooladv/" "counter4/" "tracechain/" " banners/" "newsfeed240x400.html" "stat2/" "brandsafety/" "iframe/" "article.html" "hammer/" "block3.html" "dwn_admin/" "edit4.html" "td23/" "diavita.com/" "480x320v1.html" "YoutubeAPI_Demo-master/" "woman.html" "oop.php" "t_rt/" "youtube_playlists/" "topwhitenews2.com/" "metro/" "group-controls/" "rt_banner/" "url/" "programmatic.kz2.zip" "sportmaster/" "mail/" "240x400blin.html" "new240x400/" "under-construction-page.zip" "topwhitenews_admin/" "view/" "480x320.html" "starwar/" "dwn/" "ed1.html" "mynews.html" "300x600.html" "wp/" "adsniper_site.zip" "smart/" "programmatic.kz2/" "vw_tiguan/" "nissan240x400.html" "newnews/" "reno/" "mobfox/" "lang2.php" "user-admin/" "Guardfile" "gentelella-master/" "adsniper_site_betta_en/" "brandsafety_admin/" "aray_admin/" "catofer/" "ssp_blocks_tiz/" "group-controls-ssp/" "krutoevideo/" "sybarmagazine/" "imgblock.html" "counter3/" "globalnews.zip" "brandsafety.zip" "array.zip" "adsniper_site_betta_ru/" "bd/" "pepsi_api/" "adnow/" "nprogress.css" "iphone/")
+
+ ("/home/oleg/Adsniper/metahash/" (23285 27413 773530 373000) "../" "./" "wallet/")
+
+ ("/home/oleg/.offlineimap/" (23265 48962 265083 742000) "Repository-olivanov-local/" "pid" "../" "Repository-gmail1-local/" "Account-olivanov/" "Repository-yandex-local/" "Repository-gmail-local/" "./" "Repository-gmail1-remote/" "Repository-yandex-remote/" "Repository-gmail-remote/" "Account-gmail1/" "Repository-olivanov-remote/" "Account-gmail/")
+
+ ("/home/oleg/Adsniper/mh_mob/" (23256 15075 488350 627000) "js/" "log.js" "../" "app.js" "index.html" "css/" "./" "fonts/" "favicon/" "api.js" "img/")
+
+ ("/home/oleg/Adsniper/MHApp/app/" (23257 51809 577694 76000) "resources/" "AppRun" "plugins/" "libssl.so.1" "create-packages.rb" "pages/" "../" "translations/" "log.txt" "config-template.js" "updater" "qt.conf" "autoupdater/" "libssl.so" "./" "libcrypto.so" "wallets/" "createAutoupdate.sh" "lib/" "libcrypto.so.1.0.0" "run.sh" "libexec/" "libssl.so.1.0.0" "WalletMetahash" "WalletMetahash.new")
+
+ ("/home/oleg/dwm/" (23248 34558 96339 372000) "config.mk" "drw.c" "util.c" "dwm-fancybar-6.1.diff" "BUGS" "Makefile" "dwm" "dwm-6.1-systray.diff" "dwm-pertag-6.1.diff" "../" "config.h" "dwm.o" "drw.h" "autostart.sh~" "config.def.h" "config.def.h.orig" "./" "transient.c" "dwm.c.orig" "selfrestart.c" "autostart.sh" "dwm-r1615-selfrestart.diff" "drw.o" "util.o" "dwm.png" "util.h" "dwm.c" "dwm.1" "TODO" "dwm-autostart-20161205-bb3bd6f.diff" "dwm-fancybarclickable-6.1.diff" "config.h~" "config.def.h.rej" "README" "LICENSE")
+
+ ("/home/oleg/Adsniper/contracts/" (23243 5146 133338 488000) "js/" "Message.js" "../" "index.html" "css/" "./")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/" (23243 51493 159886 603000) "typings.d.ts" "test.ts" "../" "tsconfig.app.json" "assets/" "index.html" "environments/" "./" "app/" "scss/" "favicon.ico" "styles.scss" "main.ts" "polyfills.ts" "tsconfig.spec.json")
+
+ ("/home/oleg/Adsniper/ng/metahash/" (23239 61824 105148 173000) "bitbucket-pipelines.yml" "README.md" ".git/" ".editorconfig" "package-lock.json" "../" "package.json" "e2e/" ".gitignore" "protractor.conf.js" "node_modules/" ".angular-cli.json" "dist/" "./" "src/" "karma.conf.js" "tslint.json" "yarn.lock" "tsconfig.json")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/svg/" (23239 61327 285568 525000) "svg.component.html" "../" "svg.component.ts" "./" "svg.component.spec.ts" "svg.component.scss")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/components/auth/login/" (23239 60164 323297 481000) "login.component.spec.ts" "login.component.ts" "login.component.scss" "../" "./" "login.component.html")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/components/auth/register/" (23239 60963 499843 753000) "register.component.scss" "register.component.html" "register.component.ts" "../" "./" "register.component.spec.ts")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/" (23239 61164 407004 384000) "app.module.ts" "app.component.html" "services/" "app.component.spec.ts" "../" "svg/" "app.component.ts" "./" "interfaces/" "directives/" "app.component.css" "app.constants.ts" "app-routing.module.ts" "components/")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/svg-icons/" (23239 60396 422936 620000) "svg-icons.component.scss" "../" "svg-icons.component.html" "svg-icons.component.spec.ts" "svg-icons.component.ts" "./")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/components/auth/auth/" (23239 58277 984888 363000) "auth.component.ts" "../" "./" "auth.component.html" "auth.component.scss" "auth.component.spec.ts")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/components/auth/" (23239 57743 244057 404000) "../" "register/" "auth/" "./" "login/")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/components/common/" (23239 57743 244057 404000) "bar-chart/" "../" "./" "marguee/")
+
+ ("/home/oleg/Adsniper/ng/metahash/src/app/components/" (23239 57743 244057 404000) "page-not-found/" "../" "map/" "auth/" "header/" "./" "common/" "speed-test/")
+
+ ("/home/oleg/Adsniper/ng/" (23239 57727 311793 918000) "../" "./" "metahash/")
+
+ ("/home/oleg/Adsniper/mh_mob/css/" (23238 9343 381465 189000) "fonts.css" "bootstrap-grid.css" "../" "toastr.min.css" "main.css" "bgtrans.png" "triangle.png" ".DS_Store" "./" "customSelect-arrow.gif" "media.css")
+
+ ("/home/oleg/Adsniper/metagate/build/" (23233 57644 506784 120000) "page-login.html" "js/" "page-new-wallet-keys.html" "../" "upload/" "page-new-wallet-finished.html" "index.html" "css/" "./" "fonts/" "page-wallet.html" "page-settings-backup.html" "page-wallet-edit.html" "img/" "page-register.html" "page-new-wallet.html" "page-first-time.html")
+
+ ("/home/oleg/Adsniper/metagate/" (23233 57644 602784 691000) "README.md" ".git/" "../" "gulpfile.js" "package.json" ".gitignore" "./" "src/" "build/" "gulp/" "yarn.lock")
+
+ ("/home/oleg/Adsniper/LAST/js/langs/" (23233 56338 98463 556000) "lang.ca.js" "lang.nl.js" "lang.pt-PT.js" "lang.cn.js" "lang.zh-CN.js" "lang.lt.js" "lang.be.js" "lang.km.js" "lang.ne.js" "lang.sk.js" "lang.pt-BR.js" "lang.fa.js" "lang.hu.js" "lang.ko.js" "lang.ja.js" "lang.pt.js" "lang.ta.js" "lang.my.js" "lang.el.js" "lang.zh-TW.js" "lang.ro.js" "lang.ru.js" "lang.hy.js" "lang.it.js" "../" "lang.si.js" "lang.sw.js" "lang.id.js" "lang.mk.js" "lang.es.js" "lang.sv.js" "lang.bg.js" "lang.iw.js" "lang.cs.js" "./" "lang.sq.js" "lang.da.js" "lang.bs.js" "lang.en.js" "lang.ky.js" "lang.bn.js" "lang.sr.js" "lang.hr.js" "lang.pa.js" "lang.fr.js" "lang.uk.js" "lang.vi.js" "lang.az.js" "lang.no.js" "lang.tl.js" "lang.lo.js" "lang.tk.js" "lang.de.js" "lang.tr.js" "lang.tg.js" "lang.ms.js" "lang.sr-ME.js" "lang.ps.js" "lang.th.js" "lang.et.js" "lang.fi.js" "lang.ka.js" "lang.pl.js" "lang.uz.js" "lang.kk.js" "lang.ar.js" "lang.lv.js" "lang.ur.js" "lang.sl.js" "lang.af.js")
+
+ ("/home/oleg/Adsniper/LAST/js/" (23233 57104 107857 9000) "jquery.js" "getparams.js" "../" "langloader.js" "PageScroll2id.js" "flickity.js" "common.js" ".DS_Store" "swipe.js" "./" "jquery.mobile.custom.js" "rellax.js" "langs/" "lang.js" "wow.js" "lang.module.js" "jquery.mobile.custom.min.js")
+
+ ("/home/oleg/Adsniper/LAST/" (23233 56135 820479 203000) "README.md" "slack_send_invitation.php" "js/" "career.html" "../" "staff-team-oper-00.html" "slack_invite.php" "staff-team-mark-03.html" "index.html" ".DS_Store" "docs/" "css/" "./" "mailing.php" "fonts/" "staff-team-dev-08.html" "config/" "favicon/" "subscription_management.php" "view/" "slack_invite.html" "mail.php" "staff-team-fin-03.html" "img/" "firebase-messaging-sw.js" "models/" "data/" "metapb/" "core/")
+
+ ("/home/oleg/prog/mhapp-ng/mhapp/" (23231 7884 239053 919000) "README.md" ".git/" ".editorconfig" "../" "package.json" "e2e/" ".gitignore" "protractor.conf.js" "node_modules/" ".angular-cli.json" "dist/" "./" "src/" "karma.conf.js" "tslint.json" "yarn.lock" "tsconfig.json")
+
+ ("/home/oleg/prog/mhapp-ng/mhapp/dist/" (23231 7884 243054 113000) "polyfills.23490afe3349284ca349.bundle.js" "styles.ac89bfdd6de82636b768.bundle.css" "main.c3b443372c33415d73ad.bundle.js" "../" "index.html" "./" "3rdpartylicenses.txt" "favicon.ico" "inline.318b50c57b4eba3d437b.bundle.js")
+
+ ("/home/oleg/prog/mhapp-ng/mhapp/src/app/" (23230 38496 841401 429000) "app.module.ts" "app.component.html" "app.component.spec.ts" "../" "app.component.ts" "./" "app.component.css")
+
+ ("/home/oleg/prog/mhapp-ng/mhapp/src/" (23230 38496 841401 429000) "typings.d.ts" "test.ts" "../" "tsconfig.app.json" "assets/" "styles.css" "index.html" "environments/" "./" "app/" "favicon.ico" "main.ts" "polyfills.ts" "tsconfig.spec.json")
+
+ ("/home/oleg/Downloads/langs/" (23230 38924 707600 892000) "lang.ca.js" "lang.nl.js" "lang.pt-PT.js" "lang.cn.js" "lang.zh-CN.js" "lang.lt.js" "lang.be.js" "lang.km.js" "lang.ne.js" "lang.sk.js" "lang.pt-BR.js" "lang.fa.js" "lang.hu.js" "lang.ko.js" "lang.ja.js" "lang.pt.js" "lang.ta.js" "lang.my.js" "lang.el.js" "lang.zh-TW.js" "lang.ro.js" "lang.ru.js" "lang.hy.js" "lang.it.js" "../" "lang.si.js" "lang.sw.js" "lang.id.js" "lang.mk.js" "lang.es.js" "lang.sv.js" "lang.bg.js" "lang.iw.js" "lang.cs.js" "./" "lang.sq.js" "lang.da.js" "lang.bs.js" "lang.en.js" "lang.ky.js" "lang.bn.js" "lang.sr.js" "lang.hr.js" "lang.pa.js" "lang.fr.js" "lang.uk.js" "lang.vi.js" "lang.az.js" "lang.no.js" "lang.tl.js" "lang.lo.js" "lang.tk.js" "lang.de.js" "lang.tr.js" "lang.tg.js" "lang.ms.js" "lang.sr-ME.js" "lang.ps.js" "lang.th.js" "lang.et.js" "lang.fi.js" "lang.ka.js" "lang.pl.js" "lang.uz.js" "lang.kk.js" "lang.ar.js" "lang.lv.js" "lang.ur.js" "lang.sl.js" "lang.af.js")
+
+ ("/home/oleg/prog/mhapp-ng/" (23230 38496 837401 370000) "../" "mhapp/" "./")
+
+ ("/home/oleg/prog/" (23230 38287 2378 829000) "unim/" "news.js" "js/" "sample.el" "../" "KR/" "X11/" "pysdl.py" "./" "mhapp-ng/" "nenginevth.js" "cairo.c" "ne2.js")
+
+ ("/home/oleg/prog/unim/" (23227 21651 956632 169000) "Makefile" "../" "unim-clang" "./" "main.o" "main.c" "unim-gcc")
+
+ ("/etc/lightdm/" (23229 18766 326548 418000) "users.conf" "../" "lightdm.conf" "lightdm-gtk-greeter.conf" "lightdm-gtk-greeter.conf.d/" "./" "lightdm.conf.d/")
+
+ ("/home/oleg/Adsniper/MH/" (23089 16869 523036 648000) "../" "./" "admin/" "admin.zip")
+
+ ("/etc/lightdm/lightdm.conf.d/" (22750 37429 0 0) "../" "./")
+
+ ("/etc/" (23229 15652 101406 608000) "presage.xml" "timidity/" "systemd/" "crontab" "zsh_command_not_found" "rc.local" "depmod.d/" "selinux/" "locale.alias" "initramfs-tools/" "python3/" "drirc" "lsb-release" "mpv/" "update-notifier/" "usb_modeswitch.d/" "lxdm/" "init.d/" "perl/" "signond.conf" "rmt" "apt/" "dnsmasq.d/" "rc1.d/" "prime-discrete" "UPower/" "pam.d/" "cron.monthly/" "nsswitch.conf" "udisks2/" "network/" "gnome-vfs-2.0/" "uniconf.conf" "mc/" "vtrgb" "rpc" "security/" "debian_version" "sensors.d/" "inputrc" "services" "cron.weekly/" "init/" "apparmor/" "apport/" "gai.conf" "python3.5/" "sane.d/" "ca-certificates.conf.dpkg-old" "newt/" "bash_completion" "libnl-3/" "mke2fs.conf" "mailcap.order" "hostname" "emacs/" "fonts/" "fceux-server.conf" "acpi/" "insserv/" "locale.gen" "dhcp/" "usb_modeswitch.conf" "checkinstallrc" "console-setup/" "ltrace.conf" "timezone" "iproute2/" "esound/" "environment" "adduser.conf" "apache2/" "gss/" "gtk-2.0/" "chromium-browser/" "protocols" "rc4.d/" "subgid-" "default/" "rsyslog.conf" "alternatives/" "joe/" "mplayer/" "bluetooth/" "pm/" "subuid-" "rsyslog.d/" "calendar/" "iftab" "sensors3.conf" "ldap/" "rc2.d/" "ifplugd/" "gnome-system-tools/" "group" "grub.d/" "apparmor.d/" "vdpau_wrapper.cfg" "manpath.config" "X11/" "gimp/" "dpkg/" "shells" "profile.d/" "logrotate.conf" "passwd-" "ca-certificates.conf" "kernel-img.conf" "magic.mime" "cupshelpers/" "dbus-1/" "wgetrc" "ppp/" "wpa_supplicant/" "rc3.d/" "mime.types" "mtab" "cron.d/" "menu-methods/" "gnome/" "kbd/" "kernel/" "udev/" "ssl/" "securetty" "sysctl.conf" "binfmt.d/" "subuid" "sudoers.d/" "insserv.conf" "host.conf" "modules" "dkms/" "issue" "login.defs" "mtools.conf" "catdocrc" "issue.net" "ld.so.cache" "debconf.conf" "modprobe.d/" "papersize" "hosts.allow" "firefox/" "tmpfiles.d/" "gtk-3.0/" "group-" "sudoers" "networks" "bash.bashrc" "openal/" "pki/" "profile" "wvdial.conf" "shadow" "python2.7/" "thermald/" "libgda-5.0/" "ld.so.conf.d/" "machine-id" "ld.so.conf" "hdparm.conf" "hosts" "resolv.conf" "apm/" "xdg/" "vim/" "apg.conf" "ca-certificates/" "wildmidi/" "lightdm/" ".pwd.lock" "ghostscript/" "localtime" "dconf/" "ntp.conf" "pnm2ppa.conf" "groff/" "pam.conf" "zsh/" "purple/" "ufw/" "rc6.d/" "fish/" "insserv.conf.d/" "opt/" "magic" "cron.daily/" "logcheck/" "fstab" "ssh/" "gshadow-" "updatedb.conf" "nanorc" "os-release" "python/" "chatscripts/" "ImageMagick-6/" "libpaper.d/" "sgml/" "terminfo/" "gnome-app-install/" "xml/" "mailcap" "ffserver.conf" "dictionaries-common/" "deluser.conf" "conky/" "rcS.d/" "hosts.deny" "openvpn/" "sysctl.d/" "gconf/" "bindresvport.blacklist" "popularity-contest.conf" "update-motd.d/" "shadow-" "pulse/" "resolvconf/" "fuse.conf" "legal" "rc0.d/" "modules-load.d/" "libaudit.conf" "gshadow" "subgid" "lighttpd/" "logrotate.d/" "bash_completion.d/" "update-manager/" "rc5.d/" "OpenCL/" "guest-session/" "polkit-1/" "cron.hourly/" "anacrontab" "ucf.conf" "skel/" "NetworkManager/" "passwd" "../" "./")
+
+ ("/home/oleg/Adsniper/metahash-site/" (23226 14855 739851 803000) "README.md" ".git/" "js/" "../" "staff-team-oper-00.html" ".gitignore" "staff-team-mark-03.html" "index.html" ".DS_Store" "docs/" "css/" "./" "mailing.php" "fonts/" "staff-team-dev-08.html" "config/" "favicon/" "subscription_management.php" "view/" "mail.php" "staff-team-fin-03.html" "img/" "firebase-messaging-sw.js" "models/" "data/" "metapb/" "core/")
+
+ ("/home/oleg/prog/KR/" (23224 47506 53702 835000) "Makefile" "../" "./" "main" "main.c")
+
+ ("/etc/fonts/infinality/conf.d/" (23214 21766 93206 337000) "20-aliases-default-win.conf" "50-base-rendering-win7-winxp.conf" "42-repl-global.conf" "62-tt-traced-bitmap-rendering.conf" "81-final-rendering-inf-7-xp.conf" "43-repl-tt-traced-bitmap.conf" "62-tt-monospace-rendering.conf" "21-aliases-wine-win7-inf.conf" "80-selective-rendering-inf-7-xp.conf" "60-group-non-tt-fonts.conf" "61-group-tt-rendering-inf-7-xp.conf" "90-no-synthetic.conf" "44-repl-corrective.conf" "70-forced-synthetic.conf" "30-non-latin-inf-win.conf" "80-selective-rendering-inf-win-lin.conf" "41-repl-os-win.conf" "65-override.conf" "./" "61-group-non-tt-rendering-inf-7-xp-lin.conf" "20-fix-cantarell.conf" "../" "60-group-tt-fonts.conf" "90-reject.conf")
+
+ ("/etc/fonts/infinality/" (23211 42586 921498 129000) "infinality.conf" "styles.conf.avail/" "conf.src/" "infctl.sh" "./" "conf.d/" "../")
+
+ ("/etc/fonts/" (23206 37933 726885 466000) "fonts.conf" "infinality/" "./" "conf.d/" "conf.avail/" "../")
+
+ ("/home/oleg/Adsniper/DMP/" (23206 34535 738007 33000) "page/" "container.js" "test.js" "README.md" "../" "gulpfile.js" "container.test.js" "./" ".tern-port" "simplecont.js" "contbase.js" "TEST_README.md")
+
+ ("/home/oleg/Adsniper/contracts/css/" (23211 36019 680113 207000) "jquery.jqplot.css" "../" "main.css" "./")
+
+ ("/home/oleg/.emacs.d/layouts/" (23199 51699 877709 203000) "../" "./" "js.frame-layout" "main.layout")
+
+ ("/home/oleg/Adsniper/metahash_current_site+modal/js/" (23199 59751 175522 466000) "jquery.js" "../" "PageScroll2id.js" "flickity.js" "common.js" "jquery.min.js" ".DS_Store" "bootstrap.min.js" "./" "rellax.js" "convert.js" "lang.js" "wow.js" "lang.conv.js")
+
+ ("/home/oleg/Adsniper/mockup/" (23198 26772 541185 340000) "README.md" "README.html" "../" "index.html" "./" "script.js" "style.css")
+
+ ("/home/oleg/.feh/" (23198 24534 807727 945000) "themes" "../" "./" "keys")
+
+ ("/home/oleg/.config/awesome/" (23197 594 988323 134000) "autorun.sh" "themes/" "../" "./" "revelation/" "rc.lua")
+
+ ("/home/oleg/.emacs.d/lisp/" (23193 46794 564129 937000) "mode-icons/" "powerline/" "solarized-theme.el" "../" "atom-one-light-theme.el" "solarized-definitions.el" "yasnippet/" "./" "color-theme-solarized.el")
+
+ ("/home/oleg/Adsniper/selenium/" (23193 4686 889387 603000) "test/" "sample.js" "config.js" "package-lock.json" "../" "containerGA.test.js~" "package.json" "test.zip" "node_modules/" ".eslintrc.json" "./" ".tern-port" "ram.txt" "containerGA.test.js" "yarn.lock" "t/" "t.js")
+
+ ("/home/oleg/Adsniper/metahash_current_site+modal/" (23193 2733 138374 670000) "README.md" "layout/" "js/" "../" "" "staff-team-oper-00.html" "staff-team-mark-03.html" "index.html" ".DS_Store" "docs/" "css/" "./" "fonts/" "staff-team-dev-08.html" "favicon/" "modal.html" "mail.php" "staff-team-fin-03.html" "img/" "firebase-messaging-sw.js")
+
+ ("/home/oleg/Downloads/meta_current/" (23192 55433 767664 664000) "js/" "../" "staff-team-oper-00.html" "staff-team-mark-03.html" "index.html" ".DS_Store" "docs/" "css/" "./" "fonts/" "staff-team-dev-08.html" "config/" "favicon/" "view/" "private-close.js" "mail.php" "staff-team-fin-03.html" "img/" "firebase-messaging-sw.js" "metapb/" "core/")
+
+ ("/home/oleg/Downloads/meta_current/js/" (23192 55277 113030 71000) "jquery.js" "getparams.js" "../" "PageScroll2id.js" "flickity.js" "common.js" ".DS_Store" "./" ".tern-port" "rellax.js" "lang.js" "wow.js")
+
+ ("/home/oleg/Downloads/meta_current/css/" (23191 44100 0 0) "fonts.css" "bootstrap-grid.css" "../" "flickity.css" "main.css" ".DS_Store" "./" "wow.css" "privateclose.css" "media.css")
+
+ ("/home/oleg/Downloads/metahash_current_site+modal/" (23169 40508 0 0) "README.md" "layout/" "js/" "../" "staff-team-oper-00.html" "staff-team-mark-03.html" "index.html" ".DS_Store" "docs/" "css/" "./" "fonts/" "staff-team-dev-08.html" "favicon/" "modal.html" "mail.php" "staff-team-fin-03.html" "img/" "firebase-messaging-sw.js")
+
+ ("/home/oleg/vmware/" (23183 58918 997641 547000) "../" "Mandriva Linux 64-bit/" "./")
+
+ ("/home/oleg/.local/share/lxqt/themes/Roaux/" (23190 25555 360354 976000) "lxqt-lightdm-greeter/" "hummingbird.jpg" "lxqt-lightdm-greeter.qss" "../" "wallpaper.cfg" "menu.png" "lxqt-runner/" "lxqt-desktop.qss" "./" "xfce-panel.png" "lxqt-notificationd.qss" "flat-dark-screen.png" "drive-removable-media.png" "lxqt-power.qss" "preview.png" "lxqt-notificationd/" "lxqt-panel.qss" "lxqt-runner.qss" "lxqt-power/" "mainmenu.svg")
+
+ ("/home/oleg/.local/share/lxqt/themes/" (23190 25420 422740 544000) "Roaux/" "Arc/" "../" "./" "Flat-Dark/")
+
+ ("/home/oleg/.local/share/lxqt/themes/Arc/" (23190 17075 488368 786000) "lxqt-lightdm-greeter/" "hummingbird.jpg" "lxqt-lightdm-greeter.qss" "../" "wallpaper.cfg" "menu.png" "lxqt-runner/" "lxqt-desktop.qss" "./" "xfce-panel.png" "lxqt-notificationd.qss" "flat-dark-screen.png" "drive-removable-media.png" "lxqt-power.qss" "preview.png" "lxqt-notificationd/" "lxqt-panel.qss" "lxqt-runner.qss" "lxqt-power/" "mainmenu.svg")
+
+ ("/home/oleg/.local/share/lxqt/" (23069 2738 95584 420000) "themes/" "../" "./")
+
+ ("/home/oleg/.local/share/" (23189 29699 600125 395000) "kactivitymanagerd/" "kded5/" "evolution/" "vulkan/" "remoteview/" "folks/" "gstreamer-1.0/" "audacious/" "html5caller/" "desktop-directories/" "midori/" "app-info/" "cinnamon/" "themes/" "stalefiles/" "luakit/" "user-places.xbel.tbcache" "ristretto/" "icons/" "orage/" "4kdownload.com/" "webkit/" "kdenlive/" "kwalletd/" "nemo/" "wesnoth/" "../" "kate/" "version-cmd/" "Groove/" "kcookiejar/" "libgda/" "Steam/" "icewm/" "xorg/" "xfce4/" "zathura/" "sounds/" "theme/" "konsole/" "tomboy/" "gegl-0.3/" "poezio/" "Trash/" "./" "gegl-0.2/" ".converted-launchers" "gnome-shell/" "pix/" "user-places.xbel" "higan/" "icc/" "medit/" "TelegramDesktop/" "klipper/" "fonts/" "xplayer/" "gsettings-data-convert" "user-places.xbel.bak" "gnome-settings-daemon/" "gxkb/" "RecentDocuments/" "kxmlgui5/" "qpdfview/" "vlc/" "zeitgeist/" "scummvm/" "supertuxkart/" "knewstuff3/" "recently-used.xbel.N1LMYY" "lxqt/" "plank/" ".vivaldi_user_id" "keyrings/" "pychess/" "mimeapps.list" ".cpan/" "recently-used.xbel" "vcmi/" "teamviewer/" "geary/" "icarus/" "baloo/" "nautilus/" "dolphin/" "flatpak/" "mime/" "parcellite/" "gvfs-metadata/" "vinagre/" "rhythmbox/" "gnome-chess/" "deadbeef/" "recently-used.xbel.J8423Y" "mc/" "applications/" "WalletMetahash/" "teamviewer12/" "tracker/" "gnome-software/" "webkitgtk/" "recently-used.xbel.1CX5PY")
+
+ ("/home/oleg/.local/" (22940 3750 145253 649000) "plugins/" "../" "tmp/" "./" "lib/" "share/")
+
+ ("/home/oleg/Adsniper/blockchain/" (23188 62854 358523 335000) "Poll.js" "js/" "poll.html" "../" "index.html" "css/" "./" "result.html")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
