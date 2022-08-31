@@ -1,1 +1,0 @@
-("~/Adsniper/MHApp/src/metahash-app/")

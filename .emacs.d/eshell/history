@@ -1,7 +1,0 @@
-make
-sudo make install
-make
-sudo make install
-node
-make
-sudo make install
