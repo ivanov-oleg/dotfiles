@@ -3,7 +3,6 @@ env:
 
 font:
   normal:
-    # family: "JetBrainsMono Nerd Font Mono"
     family: "BlexMono Nerd Font Mono"
   size: 18.0
 
@@ -18,7 +17,6 @@ window:
     lines: 68
 
 cursor:
-  # Block Underline или Beam
   style: Beam
 
 colors:
@@ -45,5 +43,5 @@ colors:
     white:   '#867462'
 
 key_bindings:
-  - { key: Equals,   mods: Control, action: IncreaseFontSize             }
-  - { key: Minus, mods: Control, action: DecreaseFontSize             }
+  - { key: Equals,   mods: Control, action: IncreaseFontSize }
+  - { key: Minus, mods: Control, action: DecreaseFontSize } 
